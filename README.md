@@ -24,7 +24,25 @@
 
 ## unidades
 
-TODO
+unidad 1: inteligencia artificial en computadores personales
+- introducción a protocolo de comunicación OSC y softwares Processing y Wekinator
+- entrenamiento de algoritmos de inteligencia artificial con teclado y ratón para crear apps interactivas
+- Uso de imagen y en algoritmos de inteligencia artificial
+- Uso de sonido en algoritmos de inteligencia artificial
+
+unidad 2: inteligencia artificial en aplicaciones web
+
+- introducción a programación en JavaScript y bibliotecas p5.js y ml5.js
+- creación de bases de datos de texto e imágenes para uso con inteligencia artificial
+- entrenamiento de algoritmos de inteligencia artificial para generación de texto e imágenes
+- publicación de apps web interactivas con inteligencia artificial para computadores y móviles
+
+Unidad 3: Inteligencia artificial en microcontroladores y Arduino
+
+- introducción a programación en C++ y microcontroladores Arduino
+- detección de movimiento y voz usando microcontroladores
+- detección de colores usando microcontroladores
+- aplicaciones éticas y accesibles con microcontroladores
 
 ## horarios y fechas
 
@@ -56,19 +74,43 @@ TODO
 | cierre acta                              | 2023-12-18         | plazo máximo envío actas     |
 
 ## notas
-<!-- 
+
 la nota final del curso será el promedio simple de estas evaluaciones:
 
-- asistencia: inasistencias justificadas por u-cursos cuentan como media asistencia. la nota máxima se logra con al menos un 90% de asistencia.
-- trabajos de investigación: 1 trabajos de investigación individual, hecho durante la semana de receso.
-- controles individuales:
-  - 4 controles hechos en horario de ayudantía, uno al final de cada mes agosto, septiembre, octubre y noviembre.
-  - cada control tiene 3 ejercicios, el peor se borra
-  - de los 3 controles, la peor nota se borra. -->
+- asistencia: la nota máxima se logra con al menos un 90% de asistencia. inasistencias justificadas por u-cursos cuentan como media asistencia. 
+- proyecto grupal de mitad de semestre
+- proyecto grupal de fin de semestre
+
+los dos proyectos grupales son evaluados en las siguientes dimensiones:
+
+1. Punto base
+2. Listado de materiales
+3. Instrucciones de uso
+4. Código usado
+5. Documentación multimedia
+6. Conclusiones del proyecto
+7. Presentación oral del proyecto
+
+## herramientas
+
+- computador con sistemas operativos Linux, Mac, o Windows
+- microcontroladores Arduino o similares
+- internet
+- [github.com](https://github.com/)
+- [p5.js](https://p5js.org/)
+- [ml5.js](https://ml5js.org/)
+- [Wekinator](https://wekinator.org/)
 
 ## bibliografía
-<!-- 
-- https://www.khanacademy.org/science/physics/
-- https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/
-- https://natureofcode.com/
-- http://www.fis.puc.cl/~rbenguri/EstaticaDinamica-rb.html -->
+
+- Fiebrink, Rebecca, 2009. https://www.wekinator.org/
+- Fiebrink Rebecca, 2016. Machine Learning for Musicians and Artists
+https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists/info
+- Shiffman, Dan et al, 2022 ml5.js https://github.com/ml5js/ml5-library
+- Kogan, Gene, 2015. Machine Learning for Artists https://ml4a.github.io/ml4a/
+- Reas, Casey, 2019. Making Pictures with Generative Adversarial Networks
+https://www.anteism.com/shop/making-pictures-with-generative-adversarial-networks-casey-reas
+- Wang, Ge, 2019. Artful Design. https://artful.design/
+- https://github.com/carpedm20/DCGAN-tensorflow
+- https://github.com/affinelayer/pix2pix-tensorflow
+- https://arxiv.org/abs/1406.2661
