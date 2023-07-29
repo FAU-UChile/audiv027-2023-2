@@ -5,7 +5,7 @@
 - universidad: Universidad de Chile
 - facultad: Facultad de Arquitectura y Urbanismo
 - departamento: Departamento de Diseño
-- nombre y sigla de diseño: AUDIV027 Electivo ambas menciones Inteligencia Artificial
+- nombre y sigla de diseño: AUDIV027 Electivo ambas menciones: Inteligencia Artificial
 - nombre y sigla de arquitectura: AUA70092 Electivo de especialización: Inteligencia artificial
 - nombre y sigla de geografía: AUG60031 Electivo de especialización: Inteligencia artificial
 - sección: 01
@@ -27,8 +27,8 @@
 unidad 1: inteligencia artificial en computadores personales
 - introducción a protocolo de comunicación OSC y softwares Processing y Wekinator
 - entrenamiento de algoritmos de inteligencia artificial con teclado y ratón para crear apps interactivas
-- Uso de imagen y en algoritmos de inteligencia artificial
-- Uso de sonido en algoritmos de inteligencia artificial
+- uso de imagen y en algoritmos de inteligencia artificial
+- uso de sonido en algoritmos de inteligencia artificial
 
 unidad 2: inteligencia artificial en aplicaciones web
 
@@ -53,25 +53,25 @@ Unidad 3: Inteligencia artificial en microcontroladores y Arduino
 
 ## calendario detallado
 
-| sesión                                   | fecha              | tema                         |
-| :--------------------------------------- | :----------------- | :--------------------------- |
-| [clase-01](clases/clase-01/)             | 2023-08-11 viernes | TODO                         |
-| [clase-02](clases/clase-02/)             | 2023-08-18 viernes | TODO                         |
-| [clase-03](clases/clase-03/)             | 2023-08-25 viernes | TODO                         |
-| [clase-04](clases/clase-04/)             | 2023-09-01 viernes | TODO                         |
-| [clase-05](clases/clase-05/)             | 2023-09-08 viernes | TODO                         |
-| semana receso                            | 2023-09-11/17      | sin clases, sin evaluaciones |
-| [clase-06](clases/clase-06/)             | 2023-09-22 viernes | TODO                         |
-| [clase-07](clases/clase-07/)             | 2023-09-29 viernes | TODO                         |
-| [clase-08](clases/clase-08/)             | 2023-10-06 viernes | TODO                         |
-| [clase-09](clases/clase-09/)             | 2023-10-13 viernes | TODO                         |
-| [clase-10](clases/clase-10/)             | 2023-10-20 viernes | TODO                         |
-| día feriado                              | 2023-10-27 viernes | no hay clase                 |
-| [clase-11](clases/clase-11/)             | 2023-11-03 viernes | TODO                         |
-| [clase-12](clases/clase-12/)             | 2023-11-10 viernes | TODO                         |
-| semana de trabajo autónomo               | 2023-01-13/19      | sin clases                   |
-| [clase-13](clases/clase-13/)             | 2023-11-24 viernes | TODO                         |
-| cierre acta                              | 2023-12-18         | plazo máximo envío actas     |
+| sesión                                   | fecha              | tema                                          |
+| :--------------------------------------- | :----------------- | :-------------------------------------------- |
+| [clase-01](clases/clase-01/)             | 2023-08-11 viernes | introducción a inteligencia artificial        |
+| [clase-02](clases/clase-02/)             | 2023-08-18 viernes | inteligencia artificial en computadores       |
+| [clase-03](clases/clase-03/)             | 2023-08-25 viernes | inteligencia artificial en computadores       |
+| [clase-04](clases/clase-04/)             | 2023-09-01 viernes | inteligencia artificial en aplicaciones web   |
+| [clase-05](clases/clase-05/)             | 2023-09-08 viernes | inteligencia artificial en aplicaciones web   |
+| semana receso                            | 2023-09-11/17      | sin clases, sin evaluaciones                  |
+| [clase-06](clases/clase-06/)             | 2023-09-22 viernes | trabajo grupal en primer proyecto             |
+| [clase-07](clases/clase-07/)             | 2023-09-29 viernes | inteligencia artificial en aplicaciones web   |
+| [clase-08](clases/clase-08/)             | 2023-10-06 viernes | presentaciones grupales de primer proyecto    |
+| [clase-09](clases/clase-09/)             | 2023-10-13 viernes | inteligencia artificial en microcontroladores |
+| [clase-10](clases/clase-10/)             | 2023-10-20 viernes | inteligencia artificial en microcontroladores |
+| día feriado                              | 2023-10-27 viernes | no hay clase                                  |
+| [clase-11](clases/clase-11/)             | 2023-11-03 viernes | trabajo grupal en segundo proyecto            |
+| [clase-12](clases/clase-12/)             | 2023-11-10 viernes | trabajo grupal en segundo proyecto            |
+| semana de trabajo autónomo               | 2023-01-13/19      | sin clases                                    |
+| [clase-13](clases/clase-13/)             | 2023-11-24 viernes | presentaciones grupales de segundo proyecto   |
+| cierre acta                              | 2023-12-18         | plazo máximo envío actas                      |
 
 ## notas
 
