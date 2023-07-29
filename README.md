@@ -47,7 +47,7 @@ TODO
 | [clase-07](clases/clase-07/)             | 2023-09-29 viernes | TODO                         |
 | [clase-08](clases/clase-08/)             | 2023-10-06 viernes | TODO                         |
 | [clase-09](clases/clase-09/)             | 2023-10-13 viernes | TODO                         |
-| [clase-10](clases/clase-10/)             | 2023-10-19 viernes | TODO                         |
+| [clase-10](clases/clase-10/)             | 2023-10-20 viernes | TODO                         |
 | día feriado                              | 2023-10-27 viernes | no hay clase                 |
 | [clase-11](clases/clase-11/)             | 2023-11-03 viernes | TODO                         |
 | [clase-12](clases/clase-12/)             | 2023-11-10 viernes | TODO                         |
