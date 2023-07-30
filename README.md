@@ -114,3 +114,6 @@ https://www.anteism.com/shop/making-pictures-with-generative-adversarial-network
 - https://github.com/carpedm20/DCGAN-tensorflow
 - https://github.com/affinelayer/pix2pix-tensorflow
 - https://arxiv.org/abs/1406.2661
+
+## bibliografía relevante
+-
