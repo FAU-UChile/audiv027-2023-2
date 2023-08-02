@@ -121,4 +121,6 @@ http://manovich.net/index.php/projects/defining-ai-arts-three-proposals
 - Zawada, Jonathan, 2022. https://zawada.art
 - Weirdcore directs Aphex Twin’s ‘Blackbox Life Recorder 21f’, 2023.
 https://www.factmag.com/2023/08/01/fact-selects-weirdcore-directs-aphex-twins-blackbox-life-recorder-21f/
-- 
+- Definición en español de Wekinator, junto con una charla de Rebecca Fiebrink
+https://proyectoidis.org/wekinator/
+- https://www.aiweirdness.com
