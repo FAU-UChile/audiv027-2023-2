@@ -116,4 +116,9 @@ https://www.anteism.com/shop/making-pictures-with-generative-adversarial-network
 - https://arxiv.org/abs/1406.2661
 
 ## bibliografía relevante
--
+- Lev, Manovich, 2019. Defining AI Arts: Three Proposals
+http://manovich.net/index.php/projects/defining-ai-arts-three-proposals
+- Zawada, Jonathan, 2022. https://zawada.art
+- Weirdcore directs Aphex Twin’s ‘Blackbox Life Recorder 21f’, 2023.
+https://www.factmag.com/2023/08/01/fact-selects-weirdcore-directs-aphex-twins-blackbox-life-recorder-21f/
+- 
