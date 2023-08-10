@@ -103,9 +103,18 @@ los dos proyectos grupales son evaluados en las siguientes dimensiones:
 
 ## bibliografía
 
-- Fiebrink, Rebecca, 2009. https://www.wekinator.org/
-- Fiebrink Rebecca, 2016. Machine Learning for Musicians and Artists
+Artistas
+1. Fiebrink, Rebecca.
+  - Obras
+    - Wekinator, 2009 https://www.wekinator.org/
+    - Machine Learning for Musicians and Artists, 2016
 https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists/info
+    -  Definición en español de Wekinator, junto con una charla de Rebecca Fiebrink
+https://proyectoidis.org/wekinator/
+
+
+
+
 - Shiffman, Dan et al, 2022 ml5.js https://github.com/ml5js/ml5-library
 - Kogan, Gene, 2015. Machine Learning for Artists https://ml4a.github.io/ml4a/
 - Reas, Casey, 2019. Making Pictures with Generative Adversarial Networks
@@ -121,6 +130,5 @@ http://manovich.net/index.php/projects/defining-ai-arts-three-proposals
 - Zawada, Jonathan, 2022. https://zawada.art
 - Weirdcore directs Aphex Twin’s ‘Blackbox Life Recorder 21f’, 2023.
 https://www.factmag.com/2023/08/01/fact-selects-weirdcore-directs-aphex-twins-blackbox-life-recorder-21f/
-- Definición en español de Wekinator, junto con una charla de Rebecca Fiebrink
-https://proyectoidis.org/wekinator/
+-
 - https://www.aiweirdness.com
