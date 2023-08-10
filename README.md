@@ -103,24 +103,49 @@ los dos proyectos grupales son evaluados en las siguientes dimensiones:
 
 ## bibliografía
 
-- Fiebrink, Rebecca, 2009. https://www.wekinator.org/
-- Fiebrink Rebecca, 2016. Machine Learning for Musicians and Artists
-https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists/info
-- Shiffman, Dan et al, 2022 ml5.js https://github.com/ml5js/ml5-library
-- Kogan, Gene, 2015. Machine Learning for Artists https://ml4a.github.io/ml4a/
-- Reas, Casey, 2019. Making Pictures with Generative Adversarial Networks
-https://www.anteism.com/shop/making-pictures-with-generative-adversarial-networks-casey-reas
-- Wang, Ge, 2019. Artful Design. https://artful.design/
-- https://github.com/carpedm20/DCGAN-tensorflow
-- https://github.com/affinelayer/pix2pix-tensorflow
-- https://arxiv.org/abs/1406.2661
+- Autores y sus obras
 
-## bibliografía relevante
-- Lev, Manovich, 2019. Defining AI Arts: Three Proposals
-http://manovich.net/index.php/projects/defining-ai-arts-three-proposals
-- Zawada, Jonathan, 2022. https://zawada.art
-- Weirdcore directs Aphex Twin’s ‘Blackbox Life Recorder 21f’, 2023.
-https://www.factmag.com/2023/08/01/fact-selects-weirdcore-directs-aphex-twins-blackbox-life-recorder-21f/
-- Definición en español de Wekinator, junto con una charla de Rebecca Fiebrink
+1. Rebecca Fiebrink
+    - Wekinator, 2009 https://www.wekinator.org/
+    - Machine Learning for Musicians and Artists, 2016
+https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists/info
+    -  Definición en español de Wekinator, junto con una charla de Rebecca Fiebrink
 https://proyectoidis.org/wekinator/
-- https://www.aiweirdness.com
+
+2. Daniel Shiffman
+   - Página de Youtube
+     https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw
+   - ml5.js 2022 https://github.com/ml5js/ml5-library
+
+3. Gene Kogan
+   - Machine Learning for Artists, 2015 https://ml4a.github.io/ml4a/
+
+4. Casey Reas
+   - Making Pictures with Generative Adversarial Networks, 2019
+https://www.anteism.com/shop/making-pictures-with-generative-adversarial-networks-casey-reas
+
+5. Ge Wang
+   - Artful Design, 2019 https://artful.design/
+
+6. Lev Manovich
+   - Defining AI Arts: Three Proposals, 2019
+http://manovich.net/index.php/projects/defining-ai-arts-three-proposals
+
+7. Jonathan Zawada
+   - Official Page, 2022 https://zawada.art
+
+8. Weirdcore
+   - Weirdcore directs Aphex Twin’s ‘Blackbox Life Recorder 21f’, 2023
+https://www.factmag.com/2023/08/01/fact-selects-weirdcore-directs-aphex-twins-blackbox-life-recorder-21f/
+
+9. Janelle Shane
+   - https://www.aiweirdness.com
+
+- Trabajos de código
+
+  - A tensorflow implementation of "Deep Convolutional Generative Adversarial Networks"
+https://github.com/carpedm20/DCGAN-tensorflow
+  - Tensorflow port of Image-to-Image Translation with Conditional Adversarial Nets
+https://github.com/affinelayer/pix2pix-tensorflow
+  - Generative Adversarial Networks
+https://arxiv.org/abs/1406.2661
