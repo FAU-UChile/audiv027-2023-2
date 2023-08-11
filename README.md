@@ -14,7 +14,7 @@
 - profesore: [aarón montoya-moraga](https://github.com/montoyamoraga)
 - ayudante: [ignacio passalacqua](https://github.com/ipassala)
 - monitor: [joaquín pérez](https://github.com/jota-pe-ge)
-- estudiantes inscritos: TODO
+- estudiantes inscritos: 30
 
 ## repositorio
 
