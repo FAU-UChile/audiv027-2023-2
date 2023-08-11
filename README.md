@@ -103,49 +103,57 @@ los dos proyectos grupales son evaluados en las siguientes dimensiones:
 
 ## bibliografía
 
-- Autores y sus obras
+- Casey Reas
+   - Making Pictures with Generative Adversarial Networks, 2019
+https://www.anteism.com/shop/making-pictures-with-generative-adversarial-networks-casey-reas
 
-1. Rebecca Fiebrink
-    - Wekinator, 2009 https://www.wekinator.org/
-    - Machine Learning for Musicians and Artists, 2016
-https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists/info
-    -  Definición en español de Wekinator, junto con una charla de Rebecca Fiebrink
-https://proyectoidis.org/wekinator/
 
-2. Daniel Shiffman
+- Daniel Shiffman
    - Página de Youtube
      https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw
    - ml5.js 2022 https://github.com/ml5js/ml5-library
 
-3. Gene Kogan
+- Gene Kogan
    - Machine Learning for Artists, 2015 https://ml4a.github.io/ml4a/
 
-4. Casey Reas
-   - Making Pictures with Generative Adversarial Networks, 2019
-https://www.anteism.com/shop/making-pictures-with-generative-adversarial-networks-casey-reas
-
-5. Ge Wang
+- Ge Wang
    - Artful Design, 2019 https://artful.design/
 
-6. Lev Manovich
+- hypereikon
+  - https://www.instagram.com/hypereikon/
+
+- Ian Goodfellow et al
+  - Generative Adversarial Networks, 2014 https://arxiv.org/abs/1406.2661
+
+- Janelle Shane
+   - https://www.aiweirdness.com
+
+- Jonathan Zawada
+   - Official Page, 2022 https://zawada.art
+
+- Lev Manovich
    - Defining AI Arts: Three Proposals, 2019
 http://manovich.net/index.php/projects/defining-ai-arts-three-proposals
 
-7. Jonathan Zawada
-   - Official Page, 2022 https://zawada.art
+- Phillip Isola et al
+   - Image-to-Image Translation with Conditional Adversarial Networks, 2016 https://github.com/phillipi/pix2pix
 
-8. Weirdcore
+- Rebecca Fiebrink
+  - Wekinator, 2009 https://www.wekinator.org/
+  - Machine Learning for Musicians and Artists, 2016 https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists/info
+  -  Definición en español de Wekinator, junto con una charla de Rebecca Fiebrink
+https://proyectoidis.org/wekinator/
+
+
+- RunwayML
+  - https://runwayml.com/
+
+- Sam Lavigne
+  - https://lav.io/
+
+- Taehoon Kim
+  -  A tensorflow implementation of "Deep Convolutional Generative Adversarial Networks" https://github.com/carpedm20/DCGAN-tensorflow
+
+- Weirdcore
    - Weirdcore directs Aphex Twin’s ‘Blackbox Life Recorder 21f’, 2023
 https://www.factmag.com/2023/08/01/fact-selects-weirdcore-directs-aphex-twins-blackbox-life-recorder-21f/
-
-9. Janelle Shane
-   - https://www.aiweirdness.com
-
-- Trabajos de código
-
-  - A tensorflow implementation of "Deep Convolutional Generative Adversarial Networks"
-https://github.com/carpedm20/DCGAN-tensorflow
-  - Tensorflow port of Image-to-Image Translation with Conditional Adversarial Nets
-https://github.com/affinelayer/pix2pix-tensorflow
-  - Generative Adversarial Networks
-https://arxiv.org/abs/1406.2661
