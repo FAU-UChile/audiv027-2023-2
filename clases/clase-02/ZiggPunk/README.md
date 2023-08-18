@@ -8,7 +8,7 @@ runwayml   inteligencia artificial creada por un chileno
 preceptron   modelo de neurona artificial para las redes neuronales
 torch.ch
 GAN   https://en.wikipedia.org/wiki/Generative_adversarial_network
-http://www.wekinator.org/examples/#Processing_animation_screen-based_input
+http://www.wekinator.org/examples/#Processing_animation_screen-based_input     DE AQUI SALE EL CODIGO
 oscp5 libreria para hacer funcionar el codigo
 processing (java)
 java NO es lo mimso que javascript
