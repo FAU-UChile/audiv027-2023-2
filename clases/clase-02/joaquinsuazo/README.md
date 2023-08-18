@@ -1,4 +1,4 @@
-## hola estos son mis apuntes  de la clase n°2
+## hola estos son mis apuntes  de la clase n°2 (18-08-2023)
 -utilizamos la herramienta de colab.research.google para correr un codigo de phyton.
 
 -Runway, Empresa centrada en la inteligencia artifical creada por integrantes chilenos.
