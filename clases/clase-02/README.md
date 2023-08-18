@@ -15,6 +15,7 @@ viernes 18 agosto 2023
 
 este documento está escrito en Markdown https://en.wikipedia.org/wiki/Markdown, creado por John Gruber https://en.wikipedia.org/wiki/John_Gruber, y en sus inicios ayudado por Aaron Swartz https://en.wikipedia.org/wiki/Aaron_Swartz.
 
+su nombre Markdown es una referencia a Markup de HTML, está concebido como un lenguaje de anotación legible y que es posible de transpilar a otros formatos, incluso el mismo HTML, lo recomiendo muchísimo para sus portafolios y apuntes, por eso lo practicaremos durante el curso.
 
 ## aspectos a tener en consideración
 
