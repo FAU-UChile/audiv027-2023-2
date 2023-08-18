@@ -1,1 +1,1 @@
-## hola estos son mis apuntes de github de la clase n°2
+## hola estos son mis apuntes  de la clase n°2
