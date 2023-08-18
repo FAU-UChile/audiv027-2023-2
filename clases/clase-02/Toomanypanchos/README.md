@@ -1,4 +1,4 @@
-Hi Weolcome to mi notes.
+Hi Welcome to my notas.
 ------------------------
 Apuntes - Clase 18/08
 Durante la clase aprendimos a entrenar a una computadora de manera basica.
