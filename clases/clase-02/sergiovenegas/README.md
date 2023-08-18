@@ -1,4 +1,4 @@
-pip - un instalador de librerías para Python.
+pip - un instalador de librerías para Python. </br>
 Tensorflow - librería usada para aprendizaje automatizado, o parte de los algoritmos de la IA
 Dependiendo del algoritmo está iterando y cada cierto tiempo revisa si está bien o está mal.
 Los algoritmos van cambiando de valor entre 0 y 1 (el código binario), 
