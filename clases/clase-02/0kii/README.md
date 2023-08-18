@@ -1,4 +1,5 @@
 Clase 2
+
 Comandos de Bach
 Google colaboration (laboration) es como un laboratorio digital
 PIP: instalador que permite que phyton ....
