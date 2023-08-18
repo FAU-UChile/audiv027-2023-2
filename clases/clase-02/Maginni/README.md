@@ -12,4 +12,4 @@ Software: Wekinator
 
 Ejemplo 3.16 Processing: http://www.wekinator.org/examples/#Processing_animation_screen-based_input
 Output 1 > Start Recording > Mapear arriba > Stop Recording > 
-Output 2 > Start Recording > Mapear arriba > Stop Recording > Run
+Output 2 > Start Recording > Mapear abajo > Stop Recording > Run
