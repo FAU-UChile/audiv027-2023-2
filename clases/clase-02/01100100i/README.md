@@ -4,6 +4,7 @@ cristian oyarun error404.cl
 -  (- + tab)
 1. (1 + tab)
 2. **negrita**
+
 *cursiva*
 allison parrish https://www.decontextualize.com/
 .pyenv permite que los python convivan
