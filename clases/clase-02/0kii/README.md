@@ -1,6 +1,7 @@
 Clase 2
 
 Comandos de Bach
+
 Google colaboration (laboration) es como un laboratorio digital
 PIP: instalador que permite que phyton ....
 Phyton: lenguaje de programacion que se utiliza para muchas cosas
