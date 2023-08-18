@@ -5,3 +5,4 @@ forkeamos el repositorio de apuntes del curso,
 Creamos un repositorio para dejar los apuntes.
 
 Lenguaje Markdown: lenguaje de programación que requiere poca sintaxis. Similar a HTML ocupa etiquetas pero esta diseñado para ser mas fácil de comprender y leer.
+Git: nos ayuda a monitorear los cambios a través de un historial.
