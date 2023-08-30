@@ -7,7 +7,6 @@
 - departamento: Departamento de Diseño
 - nombre y sigla de diseño: AUDIV027 Electivo ambas menciones: Inteligencia Artificial
 - nombre y sigla de arquitectura: AUA70092 Electivo de especialización: Inteligencia artificial
-- nombre y sigla de geografía: AUG60031 Electivo de especialización: Inteligencia artificial
 - sección: 01
 - créditos: 03
 - semestre: segundo semestre 2023
@@ -15,6 +14,7 @@
 - ayudante: [ignacio passalacqua](https://github.com/ipassala)
 - monitor: [joaquín pérez](https://github.com/jota-pe-ge)
 - estudiantes inscritos: 30
+- oyentes: 04
 
 ## repositorio
 
