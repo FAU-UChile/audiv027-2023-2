@@ -18,35 +18,35 @@
 
 ## estudiantes
 
-- 0kii
-- 01100100i
-- Anemix011
-- Angcroft
-- camilamendezm
-- dvelastin
-- eolicce
-- FabianCQ
-- faerium
-- fernandavl
-- gaabyu
-- gloriaherrera
-- Hartweey
-- hungrybagu
-- ItsPinina
-- javiparga13
-- jibbx
-- joaquinsuazo
-- kquita
-- latexlavanda
-- machitun2002
-- Maginni
-- maite31
-- Martina-Flores
-- msvioletasr
-- simunovicla
-- sofantasyy
-- Toomanypanchos
-- ZiggPunk
+- 0kii https://github.com/0kii
+- 01100100i https://github.com/01100100i
+- Anemix011 https://github.com/Anemix011
+- Angcroft https://github.com/Angcroft
+- camilamendezm https://github.com/camilamendezm
+- dvelastin https://github.com/dvelastin
+- eolicce https://github.com/eolicce
+- FabianCQ https://github.com/FabianCQ
+- faerium https://github.com/faerium
+- fernandavl https://github.com/fernandavl
+- gaabyu https://github.com/gaabyu
+- gloriaherrera https://github.com/gloriaherrera
+- Hartweey https://github.com/Hartweey
+- hungrybagu https://github.com/hungrybagu
+- ItsPinina  https://github.com/ItsPinina
+- javiparga13 https://github.com/javiparga13
+- jibbx  https://github.com/jibbx
+- joaquinsuazo https://github.com/joaquinsuazo
+- kquita https://github.com/kquita
+- latexlavanda https://github.com/latexlavanda
+- machitun2002 https://github.com/machitun2002
+- Maginni https://github.com/Maginni
+- maite31 https://github.com/maite31
+- Martina-Flores https://github.com/Martina-Flores
+- msvioletasr https://github.com/msvioletasr
+- simunovicla https://github.com/simunovicla
+- sofantasyy https://github.com/sofantasyy
+- Toomanypanchos https://github.com/Toomanypanchos
+- ZiggPunk https://github.com/ZiggPunk
 
 ## repositorio
 
