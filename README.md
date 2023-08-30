@@ -16,7 +16,40 @@
 - estudiantes inscritos: 30
 - oyentes: 04
 
+## estudiantes
+
+- 0kii
+- 01100100i
+- Anemix011
+- Angcroft
+- camilamendezm
+- dvelastin
+- eolicce
+- FabianCQ
+- faerium
+- fernandavl
+- gaabyu
+- gloriaherrera
+- Hartweey
+- hungrybagu
+- ItsPinina
+- javiparga13
+- jibbx
+- joaquinsuazo
+- kquita
+- latexlavanda
+- machitun2002
+- Maginni
+- maite31
+- Martina-Flores
+- msvioletasr
+- simunovicla
+- sofantasyy
+- Toomanypanchos
+- ZiggPunk
+
 ## repositorio
+
 
 - [ayudantias](./ayudantias/): una subcarpeta por cada ayudantía.
 - [clases](./clases/): una subcarpeta por cada clase.
