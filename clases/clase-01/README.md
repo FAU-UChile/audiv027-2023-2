@@ -15,8 +15,14 @@ viernes 11 agosto 2023
   - Sinestesia https://www.sinestesia.cc/
 
 - ignacio passalacqua https://github.com/ipassala
+  - ayudante del curso
+  - ingeniero eléctrico PUC
+  - ha sido ayudante de todos los cursos de aarón en UChile
 
 - joaquín pérez https://github.com/jota-pe-ge
+  - monitor del curso
+  - estudiante de diseño UChile
+  - ha tomado cursos con aarón anteriormente, y su investigación actual es sobre inteligencia artificial
 
 ## inspiraciones varias para este curso
 
