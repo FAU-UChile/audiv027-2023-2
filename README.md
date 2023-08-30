@@ -50,10 +50,10 @@
 
 ## repositorio
 
-
-- [ayudantias](./ayudantias/): una subcarpeta por cada ayudantía.
-- [clases](./clases/): una subcarpeta por cada clase.
-- [trabajos](./trabajos/): enunciados de trabajos.
+- [ayudantias](./ayudantias/): una subcarpeta por cada ayudantía
+- [clases](./clases/): una subcarpeta por cada clase
+  - dentro de cada carpeta de cada clase, hay una subcarpeta estudiantes, con los apuntes tomados durante clases
+- [trabajos](./trabajos/): enunciados de trabajos
 
 ## unidades
 
