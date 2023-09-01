@@ -5,8 +5,6 @@
 // mas fonts en
 // https://open-foundry.com/
 
-let url = null;
-
 let oneFrame = null;
 let oneFrameLength = 300;
 let oneFrameTemperature = 0.9;
@@ -41,10 +39,6 @@ function setup() {
 
 
   rnn = new ml5.charRNN("./models/quijote", modelLoaded);
-  
-//   url = getURL();
-
-//   lastPartUrl = url.substring(url.length - oneFrameStartIndex, url.length);
   
   currentDecimas = allChars[int(random(allChars.length))];
   
