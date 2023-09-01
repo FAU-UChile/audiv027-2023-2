@@ -14,3 +14,9 @@ Taller de ia aplicada a imagenes medicas:
 - Division de la base de datos: Entrenamiento/validacion/testeo (el testeo no debe ver lo que se hace enene entrenamiento).
 - funcion de perdida: cuanto se equivoco, cuanto tan grande es mas se equivoca.
 - epoca: un entrenamiento de todos los datos. Tiene muchos pasos para no sobrecargar la gpu.
+
+
+Clase profe Aaron
+<> lenguaje de etiquetas
+gato (hashtag) permite hacer comentarios en python
+let: sirve para crear una variable
