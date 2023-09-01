@@ -14,3 +14,7 @@ Biblioteca Código P5 > https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.7.0/addon
 
 Libraries > Codigo ajeno que se usara en el código
 Assets > Material multimedia de el código
+
+# Ejemplo Quijote
+
+https://maginni.github.io/audiv027-2023-2/clases/clase-04/ejemplo-ml5js-char-rnn/
