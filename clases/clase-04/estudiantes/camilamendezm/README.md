@@ -33,4 +33,5 @@ epoca: entrenamiento de todos los datos (epoch en inglés)
 **cómo mejorar**
 - aumentación de datos
 
-
+**JS**
+punto y coma para terminar
