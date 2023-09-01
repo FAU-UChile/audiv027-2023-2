@@ -21,7 +21,7 @@ let temperatura = 0.9;
 let textoActual = null;
 
 // maximo versos a generar
-let maximoVersos = 3;
+let maximoVersos = 20;
 // contador de verso
 let versoActual = 0;
 // variable para saber si estamos creando un nuevo verso o no
@@ -67,7 +67,7 @@ function setup() {
   textFont(miFont);
 
   // texto alineado al centro
-  textAlign(CENTER, CENTER);
+  textAlign(LEFT);
 
   // color de relleno negro
   fill(0);
@@ -84,7 +84,7 @@ function draw() {
   background(255);
 
   // mostrar texto generado
-  text(textoActual, 50*windowWidth/100, 10*windowHeight/100);
+  text(textoActual, 10*windowWidth/100, 10*windowHeight/100);
 }
 
 function generar() {
