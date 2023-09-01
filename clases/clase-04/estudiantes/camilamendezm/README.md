@@ -34,4 +34,8 @@ epoca: entrenamiento de todos los datos (epoch en inglés)
 - aumentación de datos
 
 **JS**
-punto y coma para terminar
+- punto y coma para terminar
+- let: crear una variable
+- temperatura: el valor va de 0 a 1 (0 = bajo, 1 = alto), define que tan fiel es al texto
+- mifont: tipografia, cargada en la carpeta
+- 
