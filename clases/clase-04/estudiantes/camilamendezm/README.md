@@ -1,4 +1,4 @@
-# Apuntes clase 02
+# Apuntes clase 04
 
 Invitada: Marie Carmen
 Taller de IA aplicada a imagenes medicas
