@@ -5,63 +5,87 @@
 // mas fonts en
 // https://open-foundry.com/
 
-let textoActual = null;
-let textoInicial = "cargando...";
-
+// variable para modelo char RNN
 let rnn;
+
+// variable para generar o no texto
 let generando = false;
-let temperature = 0.9;
 
-let decimasLines = 10;
+// parametro de char RNN
+let temperatura = 0.9;
+
+// texto parte vacio
+let textoActual = null;
+
+// maximo versos a generar
+let maximoVersos = 3;
+// contador de verso
 let versoActual = 0;
-let justDidNewLine = false;
+// variable para saber si estamos creando un nuevo verso o no
+let crearNuevoVerso = false;
 
+// constante con todos los caracteres en mayuscula
 const caracteres = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 
-let myFont = null;
+// variable para cargar font
+let miFont = null;
 
-// cuando el modelo es cargadp
-function modelLoaded() {
+// funcion a correr cuando el modelo es cargado
+function modeloCargado() {
+  
+  // imprimir en consola aviso de que el modelo fue cargado
   console.log("modelo cargado!");
-  generate();
+
+  // generar texto con modelo char RNN
+  generar();
 }
 
 function preload() {
-  myFont = loadFont('./assets/WorkSans-Light.ttf');
+  // cargar fuente
+  miFont = loadFont('./assets/WorkSans-Light.ttf');
 }
 
+// funcion de p5.js que ocurre una vez al principio
 function setup() {
+  // crear lienzo tan grande como la pantalla
   createCanvas(windowWidth, windowHeight);
 
-
-  rnn = new ml5.charRNN("./models/quijote", modelLoaded);
+  // definir modelo rnn con ml5.js
+  // cuando el modelo se carga, correr la funcion modeloCargado
+  rnn = new ml5.charRNN("./models/quijote", modeloCargado);
   
+  // textoActual es un caracter aleatorio
   textoActual = caracteres[int(random(caracteres.length))];
-  
+
+  // tamano del texto
+  textSize(12);
+
+  // tipografia del texto
+  textFont(miFont);
+
+  // texto alineado al centro
+  textAlign(CENTER, CENTER);
+
+  // color de relleno negro
+  fill(0);
+
+  // figuras sin borde
+  noStroke();
+
 }
 
+// funcion de p5.js que corre despues de setup(), en bucle
 function draw() {
 
-  // white background
+  // fondo blanco
   background(255);
 
-  // display generated text
-  push();
-  textSize(12);
-  textAlign(CENTER);
-  fill(0);
-  noStroke();
-  textFont(myFont);
-  if (textoActual.length > 1) {
-    text(textoActual, 50*windowWidth/100, 25*windowHeight/100);
-  } else {
-    text(textoInicial, 40*windowWidth/100, 25*windowHeight/100);
-  }
-  pop();
-
+  // mostrar texto generado
+  text(textoActual, 50*windowWidth/100, 25*windowHeight/100);
 }
 
-function generate() {
+
+function generar() {
   if (generando) {
     generando = false;
   } else {
@@ -78,10 +102,15 @@ async function loopRNN() {
 
 async function predict() {
 
-  let next = await rnn.predict(temperature);
+  // siguiente caracter
+  let next = await rnn.predict(temperatura);
+
+  // 
   await rnn.feed(next.sample);
+  // detectar si el siguiente caracter es un salto de linea
   if (next.sample == "\r" || next.sample == "\n") {
-    if (!justDidNewLine) {
+
+    if (!crearNuevoVerso) {
 
       // create array of all lines
       let allLines = textoActual.split("\n");
@@ -92,33 +121,36 @@ async function predict() {
       // p5Speech.speak(lastLine);
 
       textoActual = textoActual + "\n";
-      justDidNewLine = true;
+      crearNuevoVerso = true;
       versoActual = versoActual + 1
     
     }
   } else {
     textoActual = textoActual + next.sample;
-    justDidNewLine = false;
+    crearNuevoVerso = false;
     
   }
 
-  if (versoActual > decimasLines - 1) {
+  if (versoActual > maximoVersos - 1) {
     textoActual = textoActual + "\n";
-    justDidNewLine = false;
+    crearNuevoVerso = false;
     versoActual = 0;
     generando = false;
   }
 }
 
+// funcion de p5.js que corre si la ventana cambia de tamano
 function windowResized() {
+  // ajustar el lienzo al nuevo tamano
   resizeCanvas(windowWidth, windowHeight);
 }
 
+// funcion de p5.js que corre si el cursor hace click
 function mouseClicked() {
-  // texto es una linea
-  textoActual = caracteres[int(random(caracteres.length))];
 
+  // empezar generacion desde el principio
+  textoActual = caracteres[int(random(caracteres.length))];
   versoActual = 0;
-  generate();
+  generar();
   generando = true;
 }
