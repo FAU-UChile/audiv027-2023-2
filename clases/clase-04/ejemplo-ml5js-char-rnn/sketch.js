@@ -2,6 +2,9 @@
 // usa biblioteca ml5.js 0.12.2 y p5.js 1.7.0
 // basado en trabajo previo de @montoyamoraga
 
+// referencia de modelo char RNN implementado en ml5.js
+// https://learn.ml5js.org/#/reference/charrnn
+
 // mas fonts en
 // https://open-foundry.com/
 
@@ -81,58 +84,57 @@ function draw() {
   background(255);
 
   // mostrar texto generado
-  text(textoActual, 50*windowWidth/100, 25*windowHeight/100);
+  text(textoActual, 50*windowWidth/100, 10*windowHeight/100);
 }
-
 
 function generar() {
   if (generando) {
     generando = false;
   } else {
     generando = true;
-    loopRNN();
+    bucleRNN();
   }
 }
 
-async function loopRNN() {
+
+async function bucleRNN() {
   while (generando) {
-    await predict();
+    await predecir();
   }
 }
 
-async function predict() {
+async function predecir() {
 
   // siguiente caracter
-  let next = await rnn.predict(temperatura);
+  let siguiente = await rnn.predict(temperatura);
 
-  // 
-  await rnn.feed(next.sample);
+  // alimentar a RNN el siguiente caracter
+  await rnn.feed(siguiente.sample);
   // detectar si el siguiente caracter es un salto de linea
-  if (next.sample == "\r" || next.sample == "\n") {
-
+  if (siguiente.sample == "\r" || siguiente.sample == "\n") {
+    
+    // si no hemos creado un nuevo verso 
     if (!crearNuevoVerso) {
-
-      // create array of all lines
-      let allLines = textoActual.split("\n");
-      // retrieve last line
-      // let lastLine = allLines[allLines.length - 1];
-      let lastLine = allLines[versoActual];
-      // say the last line
-      // p5Speech.speak(lastLine);
-
+      // crear salto de linea
       textoActual = textoActual + "\n";
+      // avisar que acabamos de crear un nuevo verso
       crearNuevoVerso = true;
+      // aumentar en 1 el numero de verso actual
       versoActual = versoActual + 1
     
     }
-  } else {
-    textoActual = textoActual + next.sample;
+  }
+  // si el caracter no era un salto de linea
+  else {
+    // agregar el caracter al textoActual
+    textoActual = textoActual + siguiente.sample;
+    // avisar que no hemos creado un verso nuevo
     crearNuevoVerso = false;
-    
   }
 
+  // si ya hicimos la cantidad de versos que queriamos
   if (versoActual > maximoVersos - 1) {
-    textoActual = textoActual + "\n";
+    // detener generacion
     crearNuevoVerso = false;
     versoActual = 0;
     generando = false;
@@ -152,5 +154,4 @@ function mouseClicked() {
   textoActual = caracteres[int(random(caracteres.length))];
   versoActual = 0;
   generar();
-  generando = true;
 }
