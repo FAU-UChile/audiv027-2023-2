@@ -23,7 +23,7 @@ let myFont = null;
 // cuando el modelo es cargadp
 function modelLoaded() {
   console.log("modelo cargado!");
-  detectOneFrame();
+  generate();
 }
 
 function preload() {
@@ -59,10 +59,6 @@ function draw() {
   }
   pop();
 
-}
-
-function detectOneFrame() {
-    generate();
 }
 
 function generate() {
@@ -123,6 +119,6 @@ function mouseClicked() {
   textoActual = caracteres[int(random(caracteres.length))];
 
   versoActual = 0;
-  detectOneFrame();
+  generate();
   generando = true;
 }
