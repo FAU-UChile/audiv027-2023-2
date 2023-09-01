@@ -1,3 +1,3 @@
-# titulo
+# apuntes de la clase 4 / 01-09
 
-texto
+muy buena la charla :) 
