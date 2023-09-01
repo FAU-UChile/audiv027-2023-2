@@ -6,3 +6,5 @@ Sagital, Coronal, Corte axial
 Epoca: cada vez que se entrena un conjunto de datos
 Aumentación de datos: conseguir más voluntarios
 kaggle.com IMAGENES
+open-foundry.com tipografias gratuitas
+https://ziggpunk.github.io/audiv027-2023-2/clases/clase-04/ejemplo-ml5js-char-rnn// QUIJOTE
