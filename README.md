@@ -7,7 +7,6 @@
 - departamento: Departamento de Diseño
 - nombre y sigla de diseño: AUDIV027 Electivo ambas menciones: Inteligencia Artificial
 - nombre y sigla de arquitectura: AUA70092 Electivo de especialización: Inteligencia artificial
-- nombre y sigla de geografía: AUG60031 Electivo de especialización: Inteligencia artificial
 - sección: 01
 - créditos: 03
 - semestre: segundo semestre 2023
@@ -15,12 +14,46 @@
 - ayudante: [ignacio passalacqua](https://github.com/ipassala)
 - monitor: [joaquín pérez](https://github.com/jota-pe-ge)
 - estudiantes inscritos: 30
+- oyentes: 04
+
+## estudiantes
+
+- 0kii https://github.com/0kii
+- 01100100i https://github.com/01100100i
+- Anemix011 https://github.com/Anemix011
+- Angcroft https://github.com/Angcroft
+- camilamendezm https://github.com/camilamendezm
+- dvelastin https://github.com/dvelastin
+- eolicce https://github.com/eolicce
+- FabianCQ https://github.com/FabianCQ
+- faerium https://github.com/faerium
+- fernandavl https://github.com/fernandavl
+- gaabyu https://github.com/gaabyu
+- gloriaherrera https://github.com/gloriaherrera
+- Hartweey https://github.com/Hartweey
+- hungrybagu https://github.com/hungrybagu
+- ItsPinina  https://github.com/ItsPinina
+- javiparga13 https://github.com/javiparga13
+- jibbx  https://github.com/jibbx
+- joaquinsuazo https://github.com/joaquinsuazo
+- kquita https://github.com/kquita
+- latexlavanda https://github.com/latexlavanda
+- machitun2002 https://github.com/machitun2002
+- Maginni https://github.com/Maginni
+- maite31 https://github.com/maite31
+- Martina-Flores https://github.com/Martina-Flores
+- msvioletasr https://github.com/msvioletasr
+- simunovicla https://github.com/simunovicla
+- sofantasyy https://github.com/sofantasyy
+- Toomanypanchos https://github.com/Toomanypanchos
+- ZiggPunk https://github.com/ZiggPunk
 
 ## repositorio
 
-- [ayudantias](./ayudantias/): una subcarpeta por cada ayudantía.
-- [clases](./clases/): una subcarpeta por cada clase.
-- [trabajos](./trabajos/): enunciados de trabajos.
+- [ayudantias](./ayudantias/): una subcarpeta por cada ayudantía
+- [clases](./clases/): una subcarpeta por cada clase
+  - dentro de cada carpeta de cada clase, hay una subcarpeta estudiantes, con los apuntes tomados durante clases
+- [trabajos](./trabajos/): enunciados de trabajos
 
 ## unidades
 
