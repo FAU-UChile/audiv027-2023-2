@@ -15,5 +15,7 @@ Over feeding : el sistema  se ajusta a los datos de entrenamiento, se los aprend
 Otras formas de mejorar la presición es aumentando los datos, y como hacerlo con datos nuevos reales es muy caro o lento o complicado en algunos casos existen otros trucos como hacer pequeñas ediciones en los datos originales (en caso de ser fotos) con voltearlas, zoom, girar, saturar, blur, etc.
 
 http://www.kaggle.com -> DataSet descargables 
+
 libraries -> codigos que no escribí yo 
+
 Assets -> imagnes, tipografias u otros archivos a utilizar
