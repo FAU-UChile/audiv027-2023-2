@@ -5,28 +5,24 @@
 // mas fonts en
 // https://open-foundry.com/
 
-let oneFrame = null;
-let oneFrameLength = 300;
-let oneFrameTemperature = 0.9;
-
-let currentDecimas = null;
-let currentDecimasPlaceHolder = "loading...";
+let textoActual = null;
+let textoInicial = "cargando...";
 
 let rnn;
-let generating = false;
+let generando = false;
 let temperature = 0.9;
 
 let decimasLines = 10;
-let currentLine = 0;
+let versoActual = 0;
 let justDidNewLine = false;
 
-const allChars = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+const caracteres = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 
-// let myFont = null;
+let myFont = null;
 
-// when the model is loaded
+// cuando el modelo es cargadp
 function modelLoaded() {
-  console.log("model loaded!");
+  console.log("modelo cargado!");
   detectOneFrame();
 }
 
@@ -40,7 +36,7 @@ function setup() {
 
   rnn = new ml5.charRNN("./models/quijote", modelLoaded);
   
-  currentDecimas = allChars[int(random(allChars.length))];
+  textoActual = caracteres[int(random(caracteres.length))];
   
 }
 
@@ -56,31 +52,30 @@ function draw() {
   fill(0);
   noStroke();
   textFont(myFont);
-  if (currentDecimas.length > 1) {
-    text(currentDecimas, 50*windowWidth/100, 25*windowHeight/100);
+  if (textoActual.length > 1) {
+    text(textoActual, 50*windowWidth/100, 25*windowHeight/100);
   } else {
-    text(currentDecimasPlaceHolder, 40*windowWidth/100, 25*windowHeight/100);
+    text(textoInicial, 40*windowWidth/100, 25*windowHeight/100);
   }
   pop();
 
 }
 
 function detectOneFrame() {
-    oneFrame = false;
     generate();
 }
 
 function generate() {
-  if (generating) {
-    generating = false;
+  if (generando) {
+    generando = false;
   } else {
-    generating = true;
+    generando = true;
     loopRNN();
   }
 }
 
 async function loopRNN() {
-  while (generating) {
+  while (generando) {
     await predict();
   }
 }
@@ -93,29 +88,29 @@ async function predict() {
     if (!justDidNewLine) {
 
       // create array of all lines
-      let allLines = currentDecimas.split("\n");
+      let allLines = textoActual.split("\n");
       // retrieve last line
       // let lastLine = allLines[allLines.length - 1];
-      let lastLine = allLines[currentLine];
+      let lastLine = allLines[versoActual];
       // say the last line
       // p5Speech.speak(lastLine);
 
-      currentDecimas = currentDecimas + "\n";
+      textoActual = textoActual + "\n";
       justDidNewLine = true;
-      currentLine = currentLine + 1
+      versoActual = versoActual + 1
     
     }
   } else {
-    currentDecimas = currentDecimas + next.sample;
+    textoActual = textoActual + next.sample;
     justDidNewLine = false;
     
   }
 
-  if (currentLine > decimasLines - 1) {
-    currentDecimas = currentDecimas + "\n";
+  if (versoActual > decimasLines - 1) {
+    textoActual = textoActual + "\n";
     justDidNewLine = false;
-    currentLine = 0;
-    generating = false;
+    versoActual = 0;
+    generando = false;
   }
 }
 
@@ -124,8 +119,10 @@ function windowResized() {
 }
 
 function mouseClicked() {
-  currentDecimas = allChars[int(random(allChars.length))];
-  currentLine = 0;
+  // texto es una linea
+  textoActual = caracteres[int(random(caracteres.length))];
+
+  versoActual = 0;
   detectOneFrame();
-  generating = true;
+  generando = true;
 }
