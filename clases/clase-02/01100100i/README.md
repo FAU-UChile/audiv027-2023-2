@@ -1,1 +1,0 @@
-apuntes dia 1

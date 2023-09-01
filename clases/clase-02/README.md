@@ -1,4 +1,4 @@
-# clase-02
+d# clase-02
 
 viernes 18 agosto 2023
 
@@ -36,7 +36,7 @@ les recomendamos revisar organizaciones de código y arte para código, por ejem
 - https://github.com/manoloide/AllSketchs
 - https://github.com/golanlevin/generative_covers
 - https://github.com/antimodular/
-- 
+
 
 ## aspectos a tener en consideración
 
@@ -53,7 +53,3 @@ https://colab.research.google.com/
 
 https://github.com/ml5js/training-charRNN
 
-
-## ejercicio-01
-
-https://github.com/hypereikon/ml_art_notebooks
