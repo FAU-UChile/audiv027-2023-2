@@ -3,7 +3,7 @@
 Invitada: Marie Carmen
 Taller de IA aplicada a imagenes medicas
 
-imagenes digitales creadas por pixeles, cada pixel es un color y lo representa un número/números
+imágenes digitales creadas por pixeles, cada pixel es un color y lo representa un número/números
 
 **imágenes medicas** representación de imagenes
 - radiografias
@@ -30,6 +30,7 @@ testeo: resultados
   
 epoca: entrenamiento de todos los datos (epoch en inglés)
 
-**como mejorar**
+**cómo mejorar**
 - aumentación de datos
-- 
+
+
