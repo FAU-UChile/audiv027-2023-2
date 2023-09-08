@@ -1,3 +1,1 @@
-# titulo
-
-texto
+Clase 6: trabajo en grupo
