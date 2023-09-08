@@ -84,3 +84,4 @@ function draw() {
   </body>
 </html>
 ```
+link de P5js https://editor.p5js.org/kquita/full/Nqu3wV7Qp
