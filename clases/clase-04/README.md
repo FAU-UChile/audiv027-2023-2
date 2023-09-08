@@ -1,5 +1,7 @@
 # clase-04
 
+https://disenouchile.github.io/audiv027-2023-2/clases/clase-04/ejemplo-ml5js-char-rnn
+
 viernes 01 septiembre 2023
 
 Como la IA y la medicina se mezclan para mejoras en la salud, reconstruccion de imagenes informadas por la fisica 
