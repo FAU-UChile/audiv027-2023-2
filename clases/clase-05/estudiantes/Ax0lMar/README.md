@@ -29,9 +29,8 @@ https://learn.ml5js.org/#/reference/image-classifier
 
 -En github sacamos <script src="https://unpkg.com/ml5@0.12.2/dist/ml5.min.js" type="text/javascript"></script>
 
-y lo colocamos en index.html
-
-quedaria asi:
+**y lo colocamos en index.html**
+**quedaria asi:**
 
 <!DOCTYPE html>
 <html lang="en">
@@ -50,7 +49,8 @@ quedaria asi:
   </body>
 </html>
 
-Luego en sketch.js:
+
+**Luego en sketch.js:**
 
 let fotito;
 let clasificador;
