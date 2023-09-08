@@ -13,3 +13,5 @@ Libraries > Codigo ajeno que se usara en el código Assets > Material multimedia
 
 Ejemplo Quijote
 https://maginni.github.io/audiv027-2023-2/clases/clase-04/ejemplo-ml5js-char-rnn/# titulo
+
+Copiado de FabianCQ
