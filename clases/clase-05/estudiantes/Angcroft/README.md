@@ -6,3 +6,4 @@
 * El código no necesariamente ocurra de forma secuencial, sino que también puede administrar eventos anteriores incluso. </br>
 * El uso de la librería de ML5js fue a partir de la aplicación de ImageClassification, en su documentación. </br>
 * Javascript tiene la ventaja de poder modificar el documento sin usar necesariamente el HTML. </br>
+* Tanto ml5js como P5js son librerías que se pueden usar en el lenguaje de programación Javascript (por eso el .js) </br>
