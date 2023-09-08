@@ -1,4 +1,4 @@
-#clase 08/septiembre
+#clase 5   08/septiembre
 
 p5j.org  -> crear carpeta -> subir foto
 tutoriales para copiar para programar con imagenes  ->   https://learn.ml5js.org/#/reference/image-classifier 
