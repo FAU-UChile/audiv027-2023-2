@@ -63,3 +63,24 @@ function draw() {
   image(fotito, 0, 0, width, height);
 }
 ```
+
+```HTML
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.7.0/p5.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.7.0/addons/p5.sound.min.js"></script>
+    <script src="https://unpkg.com/ml5@0.12.2/dist/ml5.min.js" type="text/javascript"></script>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <meta charset="utf-8" />
+
+  </head>
+  <body>
+    <main>
+    </main>
+    <p id="prediccion">parrafo</p>
+    <p id="numero">parrafo</p>
+    <script src="sketch.js"></script>
+  </body>
+</html>
+```
