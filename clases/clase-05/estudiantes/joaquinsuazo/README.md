@@ -4,7 +4,7 @@
 - proxima clase trabajo en grupo
 - final de la clase vamos a conversar acerca de utilizar computadores personales por motivos de uso de webcam
 ## materia de la clase
-trabajamos dentro de p5js editor
-incluimos al ejemplo de p5js un ejemplo de ml5js
-utilizando los ejemplos de ml5js entrenamos una ia para identificar la informacion dentro de una imagen
-trabajamos con mobilenet
+- trabajamos dentro de p5js editor
+- incluimos al ejemplo de p5js un ejemplo de ml5js
+- utilizando los ejemplos de ml5js entrenamos una ia para identificar la informacion dentro de una imagen
+- trabajamos con mobilenet
