@@ -5,4 +5,5 @@
 - final de la clase vamos a conversar acerca de utilizar computadores personales por motivos de uso de webcam
 ## materias de la clase
 trabajamos dentro de p5js editor
+incluimos al ejemplo de p5js un ejemplo de ml5js
 trabajamos con mobilenet
