@@ -10,5 +10,6 @@
 - trabajamos con mobilenet
 - link del ejemplo de webcam de la clase: https://editor.p5js.org/montoyamoraga/full/C_gw_Oge2
 - link de ejemplo de ml5js de captura de movimiento: editor.p5js.org/ ... oraga/full/MD15hxuaJ
+- ml5js SketchRnn
 
   
