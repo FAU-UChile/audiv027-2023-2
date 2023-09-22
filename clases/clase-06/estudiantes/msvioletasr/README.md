@@ -13,6 +13,7 @@ Respecto a los referentes se tomaron en cuenta en primer lugar Shazam, ya que qu
 Registro:
 Para empezar leímos la página del tutorial de SoundClassification, luego de lo cual decidimos usar Teachable Machine para crear un modelo entrenado propio que reemplazara el que ya estaba. Para esto grabamos el sonido de ambiente dentro de la sala, pero para lograr más claridad salimos a un lugar más callado para grabar nuestras voces.
 A continuación se pueden ver videos de este proceso:
+
 https://github.com/msvioletasr/audiv027-2023-2/assets/142625864/efd87560-2db0-47c3-b332-2e2a7bdc9489
 
 https://github.com/msvioletasr/audiv027-2023-2/assets/142625864/045816b0-e979-47bd-bef4-f68a7d60dc35
