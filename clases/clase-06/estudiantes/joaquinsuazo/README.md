@@ -1,4 +1,4 @@
-# trabajo de modificacion del codigo de SketchRNN
+# Trabajo de modificacion del codigo de SketchRNN
 En este proyecto se modificara el codigo basico interactivo que posee el la pagina de ml5js acerca del modelo de SketchRNN. 
 
 ## De que se trata este modelo?
@@ -16,7 +16,7 @@ https://github.com/joaquinsuazo/audiv027-2023-2/assets/128074599/cd8c59c5-7643-4
 
 Este modelo tiene como por objetivo crear nuevos dibujos a base de lineas iniciales dentro de una pizarra.
 
-## Paginas utilizadas en el proyecto
+## Paginas utilizadas en el trabajo
 - ml5js: https://learn.ml5js.org/#/
 - p5js Web Editor: https://editor.p5js.org/
 - libreria de github: https://github.com/ml5js/ml5-library/blob/main/src/SketchRNN/models.js
