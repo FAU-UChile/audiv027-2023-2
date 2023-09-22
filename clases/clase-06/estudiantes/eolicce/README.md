@@ -15,6 +15,10 @@ COMIENZO DEL PROYECTO THE OFFICE
 Continuando con la segunda idea, se considera el requerimiento de una base de datos que contenga a los personajes de "The Office". A raíz de esto se utiliza la pág "Teachable machine" para obtener un link que contenga dichos datos; colocado en p5js > sketchs > junto a "loadimage"
 Por siguiente, nos arroja el error "SyntaxError: Unexpected identifier 'Fotos' at /sketch.js:7:1"
 Para solucionar esto, cambiamos la funcion preload, colocando a su vez el link.
+Continuando el error, se considera que falta agregar ml5 a la libreria.
+Luego de modificar los datos del link para hacer la biblioteca, no se lee el modelo ni arroja resultados.
+Se solucionan errores de escritura los cuales no corrían el modelo.
+Se prueba el modelo con 2 imágenes y funciona indicando: "es de the office" o "no es de the office" junto a su porcentaje de certeza.
 
 
 
