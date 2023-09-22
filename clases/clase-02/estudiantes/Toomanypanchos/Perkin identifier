@@ -7,5 +7,5 @@ a carabineros de Chile. Permitiendo reconocer si estos se encuentran en dichas i
 bajo el prefijo Perkin o NotPerkin.
 
 Se usara como referencia la pagina ml5 que presenta una guia de como crear y entrenar un modelo de image identifier, 
-utilizando [Google's Teachable Machine(https://teachablemachine.withgoogle.com/train/image)]
+utilizando [Google's Teachable Machine](https://teachablemachine.withgoogle.com/train/image)
 
