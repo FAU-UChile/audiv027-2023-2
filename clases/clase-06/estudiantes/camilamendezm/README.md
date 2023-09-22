@@ -18,5 +18,9 @@ ____
 
 
 _22-09-2023_
+
 # Sobre Dalasrnn
 
+Dañasrnn es un pip pip
+
+<sub> **Gloria Herrera**, **Amelia López** y **Camila Méndez** para audiv027-2023-2. Electivo Ambas Menciones: Inteligencia Artificial - DOCENTE: **Aaron Montoya Moraga** - FAU.UCHILE -  </sub>
