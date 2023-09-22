@@ -26,3 +26,10 @@ Dalasrnn es un pip pip
 <sub> **Gloria Herrera**, **Amelia López** y **Camila Méndez** para audiv027-2023-2. Electivo Ambas Menciones: Inteligencia Artificial - DOCENTE: **Aaron Montoya Moraga** - FAU.UCHILE -  </sub>
 
 ____
+
+Video de dalasrnn funcionando
+
+____
+
+#### Materiales
+
