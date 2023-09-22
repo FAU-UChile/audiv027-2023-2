@@ -12,3 +12,8 @@
 * archivo [index.html](index.html)
 * archivo [sketch.js](sketch.js)
 * archivo [style.css](style.css)
+* archivo [README.md](README.md)
+
+____
+
+
