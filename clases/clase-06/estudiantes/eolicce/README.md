@@ -20,6 +20,11 @@ Luego de modificar los datos del link para hacer la biblioteca, no se lee el mod
 Se solucionan errores de escritura los cuales no corrían el modelo.
 Se prueba el modelo con 2 imágenes y funciona indicando: "es de the office" o "no es de the office" junto a su porcentaje de certeza.
 
+LINK MODELO:
+
+https://editor.p5js.org/fernandavl/sketches/-K6lR1tqi
+
+
 
 
 
