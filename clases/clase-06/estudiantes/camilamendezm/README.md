@@ -9,3 +9,6 @@
    * archivo [p5.min.js](p5.min.js)
 * carpeta [models/dalas/](models/dalas/):
    * archivo
+* archivo [index.html](index.html)
+* archivo [sketch.js](sketch.js)
+* archivo [style.css](style.css)
