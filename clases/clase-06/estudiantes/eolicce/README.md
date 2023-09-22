@@ -11,7 +11,8 @@ La segunda idea: entrenar el modelo con imagenes de personajes del programa tele
 
 COMIENZO DEL PROYECTO THE OFFICE
 Continuando con la segunda idea, se considera el requerimiento de una base de datos que contenga a los personajes de "The Office". A raíz de esto se utiliza la pág "Teachable machine" para obtener un link que contenga dichos datos; colocado en p5js > sketchs > junto a "loadimage"
-
+Por siguiente, nos arroja el error "SyntaxError: Unexpected identifier 'Fotos' at /sketch.js:7:1"
+Para solucionar esto, cambiamos la funcion preload, colocando a su vez el link.
 
 
 
