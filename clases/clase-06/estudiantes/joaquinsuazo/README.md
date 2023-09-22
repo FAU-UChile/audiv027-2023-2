@@ -26,5 +26,6 @@ primero lo que hicimos fue buscar el modelo interactico de SketchRNN en los ejem
 
   ![Avance 1 imagen 1](https://github.com/joaquinsuazo/audiv027-2023-2/assets/128074599/9e6c713b-0cbf-49dc-8b7e-a1b8a62a573a)
 
+Ya dentro de el modelo podemos ver que el codigo esta entrenado en este caso para seguir el dibujo de un gato.
 
-
+![Captura de pantalla 2023-09-22 163219](https://github.com/joaquinsuazo/audiv027-2023-2/assets/128074599/82fe9cc0-717c-4349-9687-650179430b15)
