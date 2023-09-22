@@ -1,3 +1,5 @@
+estoy trabajando con [Maginni](https://github.com/Maginni)
+
 # Trabajo de modificacion del codigo de SketchRNN
 En este proyecto se modificara el codigo basico interactivo que posee el la pagina de ml5js acerca del modelo de SketchRNN. 
 
