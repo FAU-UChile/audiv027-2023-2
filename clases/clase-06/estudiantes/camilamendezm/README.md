@@ -1,4 +1,4 @@
 #### Contenidos de este repositorio
-*carpeta [assets/](assets/):
+* carpeta [assets/](assets/):
 
 texto
