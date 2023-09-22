@@ -5,6 +5,7 @@ Durante la clase aprendimos a entrenar a una computadora de manera basica.
 primeramente usando una extension de google.
 y en segundo lugar usando wekinator y ptocesing4, entrenando un algoritmo para dicernir entre dos posiciones del cursos ocupando el canvas que genera procesing.
 
-
+15/09
+semana de receso
 
 -Pancho
