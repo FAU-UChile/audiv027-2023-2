@@ -14,6 +14,8 @@ Este modelo tiene como por objetivo crear nuevos dibujos a base de lineas inicia
 
  ## Registro de avance N°1
 primero lo que hicimos fue buscar el modelo interactico de SketchRNN en los ejemplos de ml5js.
-  
+
+  ![Avance 1 imagen 1](https://github.com/joaquinsuazo/audiv027-2023-2/assets/128074599/9e6c713b-0cbf-49dc-8b7e-a1b8a62a573a)
+
 
 
