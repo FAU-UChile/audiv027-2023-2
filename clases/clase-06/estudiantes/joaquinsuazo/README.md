@@ -5,6 +5,9 @@ En este proyecto se modificara el codigo basico interactivo que posee el la pagi
 
 StechRNN es un modelo de red neuronal entrenado a base de dibujos de la pagina Quick,Draw!game https://quickdraw.withgoogle.com/.
 
+![Quick,Draw imagen](https://github.com/joaquinsuazo/audiv027-2023-2/assets/128074599/610e0f98-c116-451b-9705-2daf10b89732)
+
+
 Este modelo tiene como por objetivo crear nuevos dibujos a base de lineas iniciales dentro de una pizarra.
 
 ## Paginas utilizadas en el proyecto
