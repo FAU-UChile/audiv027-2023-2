@@ -7,3 +7,5 @@
    * archivo [ml5.min.js](ml5.min.js)
    * archivo [p5.js](p5.js)
    * archivo [p5.min.js](p5.min.js)
+* carpeta [models/dalas/](models/dalas/):
+   * archivo
