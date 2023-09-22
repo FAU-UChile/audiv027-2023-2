@@ -8,6 +8,12 @@ StechRNN es un modelo de red neuronal entrenado a base de dibujos de la pagina Q
 ![Quick,Draw imagen](https://github.com/joaquinsuazo/audiv027-2023-2/assets/128074599/610e0f98-c116-451b-9705-2daf10b89732)
 
 
+
+
+https://github.com/joaquinsuazo/audiv027-2023-2/assets/128074599/cd8c59c5-7643-4828-b82e-7f764c590988
+
+
+
 Este modelo tiene como por objetivo crear nuevos dibujos a base de lineas iniciales dentro de una pizarra.
 
 ## Paginas utilizadas en el proyecto
