@@ -1,4 +1,4 @@
-# Proyecto de modificacion de codigo del modelo SketchRNN
+# trabajo de modificacion del codigo de SketchRNN
 En este proyecto se modificara el codigo basico interactivo que posee el la pagina de ml5js acerca del modelo de SketchRNN. 
 
 ## De que se trata este modelo?
