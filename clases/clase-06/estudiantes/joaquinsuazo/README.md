@@ -5,7 +5,7 @@ En este proyecto se modificara el codigo basico interactivo que posee el la pagi
 
 StechRNN es un modelo de red neuronal entrenado a base de dibujos de la pagina Quick,Draw!game https://quickdraw.withgoogle.com/.
 
-Este modelo puede crear nuevos dibujos a base de lineas iniciales.
+Este modelo tiene como por objetivo crear nuevos dibujos a base de lineas iniciales demtro de una pizarra.
 
 ## Paginas de utilizadas en el proyecto
 - ml5js:https://learn.ml5js.org/#/
