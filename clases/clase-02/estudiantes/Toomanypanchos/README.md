@@ -8,10 +8,6 @@ y en segundo lugar usando wekinator y ptocesing4, entrenando un algoritmo para d
 15/09
 semana de receso
 -----------------
-22/09
-Proyecto grupal - Entrenamiento de clasificador de imagenes para catalogar personas pertenecientes a instituciones estatales.
-Javiera Parga - Francsico Cabrera
 
-Se usara como referencia la pagina ml5
 
 -Pancho
