@@ -33,8 +33,23 @@ Ya dentro de el modelo podemos ver que el codigo esta entrenado en este caso par
 para cambiar el dibujo que la red neuronal tiene como objetivo debemos de modificar en el codigo el modelo el cual trabaja.
 
 si vamos a la zona de background del codigo podemos identificar el modelo al cual esta asignado, en este caso como anteriormente se habia dicho el modelo esta en 'cat'
-para poder acceder a un nuevo modelo debemos de ir a la pagina de github de ml5js en donde se encontraran los diferentes modelos exitentes dentro de la pagina compatibles para p5.js 
+para poder acceder a un nuevo modelo debemos de ir a la pagina de github de ml5js en donde se encontraran los diferentes modelos exitentes dentro de la pagina que son compatibles para p5.js 
 
 ![imagen github](https://github.com/joaquinsuazo/audiv027-2023-2/assets/128074599/190a5c4b-6ca6-4e52-bd5f-8b7707dd32d4)
+
+dentro de los diferentes modelos decidimos utilizamos en esta ocacion el modelo 'bird'.
+
+volvemos al ejemplo interactivo de p5js y sustituimos el 'cat' por 'bird'.
+
+desde este momento la red identifica el cambio de modelo y comienza a dibujar pajaros a travez de los trazos iniciales.
+
+
+https://github.com/joaquinsuazo/audiv027-2023-2/assets/128074599/5a88af0f-d697-47e8-9ea7-b28f759fc6b1
+
+
+
+
+
+
 
 
