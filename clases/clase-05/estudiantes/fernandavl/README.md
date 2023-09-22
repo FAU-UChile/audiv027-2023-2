@@ -7,7 +7,7 @@ poner () {
 }
 para poder poner cositas
 
-terminanr con ;
+terminar con ;
 
  en p5j.org  pude detectar un completo wi
  
