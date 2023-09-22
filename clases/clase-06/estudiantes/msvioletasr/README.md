@@ -15,6 +15,9 @@ Para empezar leímos la página del tutorial de SoundClassification, luego de lo
 A continuación se pueden ver videos de este proceso:
 https://github.com/msvioletasr/audiv027-2023-2/assets/142625864/efd87560-2db0-47c3-b332-2e2a7bdc9489
 
+https://github.com/msvioletasr/audiv027-2023-2/assets/142625864/045816b0-e979-47bd-bef4-f68a7d60dc35
+
+https://github.com/msvioletasr/audiv027-2023-2/assets/142625864/3753137c-ac2e-4484-a85a-9270849a16da
 
 Aquí se puede ver el modelo ya entrenado:
 ![Teachable Machine 1](https://github.com/msvioletasr/audiv027-2023-2/assets/142625864/476e8124-73e3-444c-a864-92a9c3b86cbc)
