@@ -1,5 +1,6 @@
 # The office recognition
 Este proyecto reconoce imágenes y distingue si estas pertenecen o no a los personajes de la serie televisiva "The Office".
+
 DOCUMENTACIÓN DEL PROYECTO
 
 El proyecto comenzó utilizando el modelo de ml5js; pix2pix con el código base: learn.ml5js.org/#/reference/pix2pix en p5js
@@ -10,6 +11,7 @@ La primera idea: entrenar el modelo con imagenes de caras de personas enfocandos
 La segunda idea: entrenar el modelo con imagenes de personajes del programa televisivo "The Office" junto a imagenes de personas aleatorias para obtener un reconocimiento que describa si la imagen utilizada pertenece o no a uno de los integrantes del elenco.
 
 COMIENZO DEL PROYECTO THE OFFICE
+
 Continuando con la segunda idea, se considera el requerimiento de una base de datos que contenga a los personajes de "The Office". A raíz de esto se utiliza la pág "Teachable machine" para obtener un link que contenga dichos datos; colocado en p5js > sketchs > junto a "loadimage"
 Por siguiente, nos arroja el error "SyntaxError: Unexpected identifier 'Fotos' at /sketch.js:7:1"
 Para solucionar esto, cambiamos la funcion preload, colocando a su vez el link.
