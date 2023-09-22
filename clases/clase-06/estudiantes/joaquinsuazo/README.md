@@ -30,5 +30,11 @@ Ya dentro de el modelo podemos ver que el codigo esta entrenado en este caso par
 
 ![Captura de pantalla 2023-09-22 163219](https://github.com/joaquinsuazo/audiv027-2023-2/assets/128074599/82fe9cc0-717c-4349-9687-650179430b15)
 
-para cambiar el dibujo que la red neuronal tiene como objetivo generar debemos de modificar en el codigo el modelo a trabajar.
+para cambiar el dibujo que la red neuronal tiene como objetivo debemos de modificar en el codigo el modelo el cual trabaja.
+
+si vamos a la zona de background del codigo podemos identificar el modelo al cual esta asignado, en este caso como anteriormente se habia dicho el modelo esta en 'cat'
+para poder acceder a un nuevo modelo debemos de ir a la pagina de github de ml5js en donde se encontraran los diferentes modelos exitentes dentro de la pagina compatibles para p5.js 
+
+![imagen github](https://github.com/joaquinsuazo/audiv027-2023-2/assets/128074599/190a5c4b-6ca6-4e52-bd5f-8b7707dd32d4)
+
 
