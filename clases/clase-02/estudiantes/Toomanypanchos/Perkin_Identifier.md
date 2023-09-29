@@ -26,13 +26,14 @@ Para poder subir estas fotos al teachable machine y que funcione es necesario ad
 
 Para esto utilizamos el software [FFmpeg](https://ffmpeg.lav.io/) desarrrollado por Sam.Lavigne.
 ![image](https://github.com/Toomanypanchos/audiv027-2023-2/assets/89993556/ec8f3d21-6667-4dea-83af-eed9a84b77aa)
+
 Este, permite filtrar archivos de diferentes maneras, en este caso especifico se modificaran sus dimensiones para que cumplan con los requerimientos especificos.
 de esta manera se podra agilizar el proceso y modificar toda la base de datos.
 _Intentando usar el software nos dimos cuenta que solo funcionaba para formatos de video y audio por lo que no podiamos utilizarlo para las imagenes de nuestro troyecto_
 pipipipipipipipipipipi
 
 Encontramos una pagina que lo hacia jeje
-[Paginita](https://bulkresizephotos.com/en?padding=true&quality=1&type=exact&value=224&secondaryValue=224)
+[bulkresizephotos](https://bulkresizephotos.com/en?padding=true&quality=1&type=exact&value=224&secondaryValue=224)
 luego de modificadas las fotos de suben a time machine para iniciar el proceso de entrenamiento de Google
 
 **Post Entrenamiento**
