@@ -1,5 +1,6 @@
 22/09
 **Proyecto grupal - Entrenamiento de clasificador de imagenes para catalogar personas pertenecientes a instituciones estatales.**
+
 Javiera Parga - Francsico Cabrera
 
 La idea del proyeto es crear y entrenar una IA que sea capaz de, mediante su entrenamiento via imagenes, identificar a personas que pertenezcan
