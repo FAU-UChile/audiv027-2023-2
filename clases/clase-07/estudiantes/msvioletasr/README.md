@@ -26,14 +26,23 @@ https://github.com/msvioletasr/audiv027-2023-2/assets/142625864/045816b0-e979-47
 https://github.com/msvioletasr/audiv027-2023-2/assets/142625864/3753137c-ac2e-4484-a85a-9270849a16da
 
 Aquí se puede ver el modelo ya entrenado:
+
 ![Teachable Machine 1](https://github.com/msvioletasr/audiv027-2023-2/assets/142625864/476e8124-73e3-444c-a864-92a9c3b86cbc)
+
 Luego de esto exportamos el modelo entrenado a un sitio web:
+
 ![Teachable Machine Exportado](https://github.com/msvioletasr/audiv027-2023-2/assets/142625864/b0e1a5cd-8ae6-4a8e-b148-1e21cdc8ab58)
+
 Después editamos el código para que usara nuestro modelo en vez del que estaba incluido por default:
+
 ![Códico p5 js](https://github.com/msvioletasr/audiv027-2023-2/assets/142625864/a3bae044-74e1-486c-a55d-9439dba11777)
+
 En la siguiente foto se puede ver el código funcionando e identificando nuestras voces:
+
 ![Código funcionando](https://github.com/msvioletasr/audiv027-2023-2/assets/142625864/fa6b75f8-f323-427b-844f-ed9e706eb42b)
+
 Finalmente, cambiamos el texto que originalmente estaba en inglés por uno en español:
+
 ![Cambiando texto](https://github.com/msvioletasr/audiv027-2023-2/assets/142625864/0d40c25d-0c85-442c-bb9f-7074ef2517ea)
 
 # Conclusión 
