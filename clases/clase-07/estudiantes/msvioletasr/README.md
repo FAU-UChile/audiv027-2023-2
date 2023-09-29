@@ -9,9 +9,11 @@ Link a p5.js embed: https://editor.p5js.org/msvioletasr/sketches/TyKuLwPm0
 # Materiales: 
 
 Para crear este modelo usamos el tutorial sobre SoundClassification de learn.ml5js.org. Duplicamos y editamos el ejemplo incluido en esa página. Además, usamos el modo de audio de Teachable Machine para entrenar nuestro modelo. 
--Computador
+
+-Computador o celular
 -Micrófono
 -Conexión a internet
+-Voz
 
 # Referentes: 
 
@@ -56,7 +58,7 @@ Finalmente, cambiamos el texto que originalmente estaba en inglés por uno en es
 
 En conclusión al usar Teachable Machine se logró reconocer y diferenciar 5 tipos de sonido, siendo estos: Sonido de fondo, voces de Violeta, Fae, Damian y Kamila. 
 
-No tuvimos dificultad al usar Teachable Machine, que fue un programa muy intuitivo ya que este presentaba colores, formas y textos que son amigables para el usuario que recien se va incorporando, en sí la interfaz guía al usuario a través de un paso a paso muy visual, el flujo de información está resumido pero a la vez conciso para un buen uso de esta herramienta. 
+No tuvimos dificultad al usar Teachable Machine, que fue un programa muy intuitivo ya que este presentaba colores, formas y textos que son amigables para el usuario que recién se va incorporando; en sí la interfaz guía al usuario a través de un paso a paso muy visual y ordenado, y el flujo dentro del sitio es simple, directo y conciso, ya que no se necesita ir a otra pestaña para poder usar esta herramienta. Además, en ningún momento tuvimos que usar código para obtener el modelo entrenado, ya que venía integrado dentro del programa.
 
 ![ui](https://github.com/msvioletasr/audiv027-2023-2/assets/142625864/422cf0c8-639a-4917-af11-05c031b7b882)
 
