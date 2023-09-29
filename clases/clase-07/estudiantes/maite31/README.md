@@ -1,6 +1,7 @@
 # Genshin impact Character Recognizer
 
-https://editor.p5js.org/maite31/sketches/YB42-Borj
+https://editor.p5js.org/maite31/sketches/YB42-Borj editor
+https://editor.p5js.org/maite31/full/YB42-Borj pagina
 
 En este proyecto buscamos a través de las herramientas de Teachable Machine Learning y Keagle, conseguir un código que reconozca el personaje de Genshin Impact al que se asemeja la imagen en video que se proporciona.
 
