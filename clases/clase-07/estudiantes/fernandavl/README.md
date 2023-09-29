@@ -37,6 +37,11 @@ https://editor.p5js.org/fernandavl/sketches/-K6lR1tqi
 
 ![alt](assets/michaelscott.jpg "foto michaelScott")
 
-![alt](assets/1.jpg "foto paso1")
+![alt](assets/1.1jpg "foto paso1")
 
 1.1.jpg
+
+2.jpg
+![alt](assets/2jpg "foto paso3")
+
+![alt](assets/3jpg "foto paso3"
