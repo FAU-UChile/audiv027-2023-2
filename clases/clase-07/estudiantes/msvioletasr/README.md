@@ -11,8 +11,11 @@ Link a p5.js embed: https://editor.p5js.org/msvioletasr/sketches/TyKuLwPm0
 Para crear este modelo usamos el tutorial sobre SoundClassification de learn.ml5js.org. Duplicamos y editamos el ejemplo incluido en esa página. Además, usamos el modo de audio de Teachable Machine para entrenar nuestro modelo. 
 
 -Computador o celular
+
 -Micrófono
+
 -Conexión a internet
+
 -Voz
 
 # Referentes: 
