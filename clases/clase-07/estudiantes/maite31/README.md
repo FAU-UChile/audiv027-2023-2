@@ -20,8 +20,8 @@ De esta forma priorizamos dejar entre 38 y 40 imágenes de muestra por personaje
 Una vez logrados resultados variados, ingresamos el link exportado al código que provee teachable machine para aplicar en ml5js.
 Una vez duplicado, alteramos el texto de ejemplo y las dimensiones de la reproducción de la cámara web.
 
-Paginas utilizadas: teachablemachine, editor.p5js.org, kaggle.com
-Materiales: Camara web
+Materiales: Camara web, Paginas utilizadas: teachablemachine, editor.p5js.org, kaggle.com
+
 
 imagenes de prueba en teachablemachine:
 
