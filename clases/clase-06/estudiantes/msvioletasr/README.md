@@ -4,7 +4,7 @@ Integrantes: Violeta Silva, Fae Ávila y Kamila Mansilla
 
 Link a p5.js en Fullscreen: https://editor.p5js.org/msvioletasr/full/TyKuLwPm0
 
-Link a p5.js embed: <iframe src="https://editor.p5js.org/msvioletasr/full/TyKuLwPm0"></iframe>
+Link a p5.js embed: https://editor.p5js.org/msvioletasr/sketches/TyKuLwPm0
 
 Materiales: Para crear este modelo usamos el tutorial sobre SoundClassification de learn.ml5js.org. Duplicamos y editamos el ejemplo incluido en esa página. Además, usamos el modo de audio de Teachable Machine para entrenar nuestro modelo. 
 
