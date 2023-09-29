@@ -22,6 +22,8 @@ Eventualmente tras intentar solucionar el error, se optó por cambiar el modelo 
 
 Continuando con la segunda idea, se considera el requerimiento de una base de datos que contenga a los personajes de "The Office". A raíz de esto se utiliza la pág "Teachable machine" para obtener un link que contenga dichos datos; colocado en p5js > sketchs > junto a "loadimage"
 
+![alt](assets/entrenar.jpg "foto modeloEntrenado")
+
 
 Por consiguiente, nos arroja el error "SyntaxError: Unexpected identifier 'Fotos' at /sketch.js:7:1"
 
