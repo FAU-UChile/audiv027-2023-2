@@ -21,6 +21,9 @@ _____
 ## Generador de texto mediante posturas de las manos
 La idea de funcionamiento de la inteligencia es que, a partir de la clasificación de posturas de manos capturadas por una Webcam, estas tengan una salida de aleatoria de Pronombres, Sustantivos, Adjetivos y Verbos según las posturas antes ingresadas. La generación de texto resultante deriva de una confianza mínima del 70% en relación a las posturas identificadas con la Webcam.
 
+[Link de p5](https://editor.p5js.org/kquita/full/rqO6uteCX)
+
+
 ## Codigo
 ### Index
 ```html
