@@ -72,9 +72,11 @@ pero despues nos dimos cuenta que la gesticulacion no verbal(gesto de manos) era
 **Conclusiones**
 
 -El nivel de presicion dependera mucho de la calida de la bibioteca con que se alimente el algoritmo
+
 -Pueden generarse factores determinantes por interpretaciones de la AI que no se contemplaron desde un principio
+
 -Trabajar con rasgos faciales es complicado debido a la complejidad de factores que participan (una persona peude verse muy diferente debido a perspectiva o tiempo)
--
+
 
 
 
