@@ -37,7 +37,6 @@ les recomendamos revisar organizaciones de código y arte para código, por ejem
 - https://github.com/golanlevin/generative_covers
 - https://github.com/antimodular/
 
-
 ## aspectos a tener en consideración
 
 - siempre trabajar desde tu fork, no del repositorio original
