@@ -3,7 +3,7 @@
 # Are you smiling yet?
 
 ![Resultado final](https://github.com/simunovicla/audiv027-2023-2/blob/main/clases/clase-07/estudiantes/simunovicla/Imagenes/1.png?raw=true)
-
+Trabajo realizado por [Ximena Múñoz](https://github.com/Anemix011) y [Laura Simunovic Toledo](https://github.com/simunovicla).
 ### Materiales:
 - Laptop/Computador/Ipad con Webcam
 - [Editor web de p5.js](https://editor.p5js.org/)
