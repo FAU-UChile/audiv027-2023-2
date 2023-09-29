@@ -1,3 +1,3 @@
-# titulo
+# Clase 6
 
-texto
+cosas a evaluar: codigo, materiales, img, referentes, github, conclusiones
