@@ -32,7 +32,7 @@ de esta manera se podra agilizar el proceso y modificar toda la base de datos.
 _Intentando usar el software nos dimos cuenta que solo funcionaba para formatos de video y audio por lo que no podiamos utilizarlo para las imagenes de nuestro troyecto_
 pipipipipipipipipipipi
 
-Encontramos una pagina que lo hacia jeje
+Encontramos una pagina que lo hacia 
 [bulkresizephotos](https://bulkresizephotos.com/en?padding=true&quality=1&type=exact&value=224&secondaryValue=224)
 luego de modificadas las fotos de suben a time machine para iniciar el proceso de entrenamiento de Google
 
