@@ -47,3 +47,9 @@ Imagenes finales tomadas desde p5.js:
 ![image](https://github.com/maite31/audiv027-2023-2/assets/85259640/932f20a2-f432-448c-8a62-5805ac189d07)
 
 ![image](https://github.com/maite31/audiv027-2023-2/assets/85259640/be6a6f73-da9f-4da5-9223-90480fabf162)
+
+
+Conclusiones:
+Los parámetros de lectura de información de las imágenes son distintos de lo esperado, pensamos que cuando el banco del personaje Ganyu tenía 120 imágenes sería más exacto el resultado, pero los acaparó.
+Teachable Machine opera aignado posibilidades en porcentajes, si bien pensamos que afectaba el funcionamiento, a futuro lo que utilizaremos a favor, asignando el tipo de arma a cada personaje para poder identificarla también según la imagen en la cámara web.
+Si bien partimos con un ideal bastante amplio, completando este ejercicio creemos que podremos llevarlo a cabo con todas las características que queríamos lograr desde el principio: Nación, elemento y arma.
