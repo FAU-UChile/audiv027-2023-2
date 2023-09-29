@@ -1,6 +1,10 @@
 # The office recognition
+
 ![alt](assets/michaelscott.jpg "foto michaelScott")
 
+ Participantes: eolicce - fernandavl
+
+ 
 # The office recognition
 Este proyecto reconoce imágenes y distingue si estas pertenecen o no a los personajes de la serie televisiva "The Office".
 
@@ -49,7 +53,11 @@ Se prueba el modelo con 2 imágenes y funciona indicando: "es de the office" o "
 # CONCLUSIONES
 El proyecto lee correctamente las imagenes colocadas, detectando si pertenecen o no a los personajes de "The Office", no obstante, se debió trabajar con más orden ya que fueron la causa de la mayoría de problemas al momento de finalizar el modelo.
 
-# LINK MODELO
+# CÓDIGO
+zip: se encuntra en assets de este repositorio (fernandavl) 
+con nombre: Shimmer_tsunami_2023_09_29_19_25_03 
+
+# LINK CÓDIGO:
 https://editor.p5js.org/fernandavl/sketches/-K6lR1tqi
 
 # MATERIALES:
