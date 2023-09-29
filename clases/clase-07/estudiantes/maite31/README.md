@@ -34,6 +34,10 @@ imagenes de prueba en teachablemachine:
 
 Imagenes finales tomadas desde p5.js:
 
+![image](https://github.com/maite31/audiv027-2023-2/assets/85259640/dc3146ed-8697-44cd-a728-a59506711251)
+
+![image](https://github.com/maite31/audiv027-2023-2/assets/85259640/ba61ba9d-f85b-4a5a-ac4c-f2fc6d6c2fdf)
+
 ![image](https://github.com/maite31/audiv027-2023-2/assets/85259640/4c636be9-33f6-4d08-85be-9229dd8202d9)
 
 ![image](https://github.com/maite31/audiv027-2023-2/assets/85259640/387f0495-5dd5-4b6f-94d5-2e762a21f2d0)
