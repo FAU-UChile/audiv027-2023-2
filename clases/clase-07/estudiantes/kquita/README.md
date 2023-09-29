@@ -6,7 +6,7 @@ Estoy trabajando con [sofantasyy](https://github.com/sofantasyy) y [val3ntiina](
 
 
 
-# knn Clasificador de imagenes de posturas de manos tomadas por webcam paa generar textos aleatorios. Desarrollado por p5.js
+# knn Clasificador de imagenes de posturas de manos tomadas por webcam para generar textos aleatorios. Desarrollado por p5.js
 
 [Septiembre, 2023]
 
