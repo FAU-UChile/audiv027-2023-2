@@ -1,4 +1,5 @@
 # The office recognition
+![alt](assets/michaelscott.jpg "foto michaelScott")
 
 Este proyecto reconoce imágenes y distingue si estas pertenecen o no a los personajes de la serie televisiva "The Office".
 
@@ -33,9 +34,6 @@ Se prueba el modelo con 2 imágenes y funciona indicando: "es de the office" o "
 LINK MODELO:
 https://editor.p5js.org/fernandavl/sketches/-K6lR1tqi
 
-![alt](assets/felipe-avello.jpg "foto felipeAvello")
-
-![alt](assets/michaelscott.jpg "foto michaelScott")
 
 ![alt](assets/1.1.jpg "foto paso1")
 
