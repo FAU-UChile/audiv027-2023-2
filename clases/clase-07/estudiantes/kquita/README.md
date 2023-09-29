@@ -1,7 +1,7 @@
-# AdelantoEntregable
+# Entregable
 Hola, bienvenido. 
 Esta es la documentacion del primer proyecto!
-Estoy trabajando con [sofantasyy](https://github.com/sofantasyy) y [kquita](https://github.com/kquita)
+Estoy trabajando con [sofantasyy](https://github.com/sofantasyy) y [val3ntiina](https://github.com/val3ntiina)
 
 
 
