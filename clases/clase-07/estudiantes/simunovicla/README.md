@@ -2,7 +2,14 @@
 
 # Are you smiling yet?
 
-![Rasultado final](https://github.com/simunovicla/audiv027-2023-2/blob/main/clases/clase-07/estudiantes/simunovicla/Imagenes/1.png?raw=true)
+![Resultado final](https://github.com/simunovicla/audiv027-2023-2/blob/main/clases/clase-07/estudiantes/simunovicla/Imagenes/1.png?raw=true)
+
+### Materiales:
+- Laptop/Computador/Ipad con Webcam
+- [Editor web de p5.js](https://editor.p5js.org/)
+
+### Referentes:
+- [Facemesh de ml5 para editor p5.js](https://editor.p5js.org/ml5/sketches/Facemesh_Webcam)
 
 ## Comenzando...
 
