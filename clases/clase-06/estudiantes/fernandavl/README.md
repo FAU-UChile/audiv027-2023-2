@@ -2,3 +2,6 @@
 
 texto
 https://editor.p5js.org/fernandavl/sketches/-K6lR1tqi 
+
+
+![alt](assets/felipe-avello.jpg "foto felipeAvello")
