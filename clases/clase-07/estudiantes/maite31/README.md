@@ -31,3 +31,6 @@ imagenes de prueba en teachablemachine:
 ![Captura de pantalla 2023-09-22 170914](https://github.com/maite31/audiv027-2023-2/assets/85259640/6580eb39-d547-45cb-b222-f43cb8d5cdc4)
 
 ![Captura de pantalla 2023-09-22 164251](https://github.com/maite31/audiv027-2023-2/assets/85259640/48d42332-6bde-4ea5-b827-f4e97617fdc3)
+
+Imagenes finales tomadas desde p5.js
+![image](https://github.com/maite31/audiv027-2023-2/assets/85259640/4c636be9-33f6-4d08-85be-9229dd8202d9)
