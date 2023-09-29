@@ -1,9 +1,10 @@
 # The office recognition
 ![alt](assets/michaelscott.jpg "foto michaelScott")
 
+# The office recognition
 Este proyecto reconoce imágenes y distingue si estas pertenecen o no a los personajes de la serie televisiva "The Office".
 
-DOCUMENTACIÓN DEL PROYECTO
+# DOCUMENTACIÓN DEL PROYECTO
 
 El proyecto comenzó utilizando el modelo de ml5js; pix2pix con el código base: learn.ml5js.org/#/reference/pix2pix en p5js
 
@@ -11,19 +12,20 @@ A partir de ello, se pensó en generar imágenes reales a través del reconocimi
 
 Eventualmente tras intentar solucionar el error, se optó por cambiar el modelo a uno previamente utilizado en clases; imageclassifier. A partir de ello, se comienza a utlizar p5js seguiendo los pasos que aparecen en "Quickstart"
 
-La primera idea: entrenar el modelo con imagenes de caras de personas enfocandose en expresiones, para obtener un reconocomiento facial que describa las emociones o un porcentaje cercano, es decir, al momento de aparecer una imagen el modelo arroje resultados certeros o proximos como "feliz" o "angustiado".
+![alt](assets/referencia.jpg "foto referencia")
 
-La segunda idea: entrenar el modelo con imagenes de personajes del programa televisivo "The Office" junto a imagenes de personas aleatorias para obtener un reconocimiento que describa si la imagen utilizada pertenece o no a uno de los integrantes del elenco.
+-La primera idea: entrenar el modelo con imagenes de caras de personas enfocandose en expresiones, para obtener un reconocomiento facial que describa las emociones o un porcentaje cercano, es decir, al momento de aparecer una imagen el modelo arroje resultados certeros o proximos como "feliz" o "angustiado".
 
-COMIENZO DEL PROYECTO THE OFFICE
+-La segunda idea: entrenar el modelo con imagenes de personajes del programa televisivo "The Office" junto a imagenes de personas aleatorias para obtener un reconocimiento que describa si la imagen utilizada pertenece o no a uno de los integrantes del elenco.
+
+# COMIENZO DEL PROYECTO THE OFFICE
 
 Continuando con la segunda idea, se considera el requerimiento de una base de datos que contenga a los personajes de "The Office". A raíz de esto se utiliza la pág "Teachable machine" para obtener un link que contenga dichos datos; colocado en p5js > sketchs > junto a "loadimage"
 
+
+Por consiguiente, nos arroja el error "SyntaxError: Unexpected identifier 'Fotos' at /sketch.js:7:1"
+
 ![alt](assets/error.jpg "foto error")
-
-Por siguiente, nos arroja el error "SyntaxError: Unexpected identifier 'Fotos' at /sketch.js:7:1"
-
-![alt](assets/referencia.jpg "foto referencia")
 
 Para solucionar esto, cambiamos la funcion preload, colocando a su vez el link.
 
@@ -35,13 +37,29 @@ Se solucionan errores de escritura los cuales no corrían el modelo.
 
 Se prueba el modelo con 2 imágenes y funciona indicando: "es de the office" o "no es de the office" junto a su porcentaje de certeza.
 
-LINK MODELO:
-https://editor.p5js.org/fernandavl/sketches/-K6lR1tqi
-
-
 ![alt](assets/1.1.jpg "foto paso1")
-
 
 ![alt](assets/2.jpg "foto paso3")
 
 ![alt](assets/3.jpg "foto paso3")
+
+
+# CONCLUSIONES
+El proyecto lee correctamente las imagenes colocadas, detectando si pertenecen o no a los personajes de "The Office", no obstante, se debió trabajar con más orden ya que fueron la causa de la mayoría de problemas al momento de finalizar el modelo.
+
+# LINK MODELO
+https://editor.p5js.org/fernandavl/sketches/-K6lR1tqi
+
+# MATERIALES:
+Ml5js, P5js, Teachable machine, Youtube.
+
+# REFERENTES:
+https://learn.ml5js.org/#/reference/image-classifier
+https://www.youtube.com/watch?v=YsrMGcgfETY&t=359s
+https://teachablemachine.withgoogle.com/train/image
+
+
+
+
+
+
