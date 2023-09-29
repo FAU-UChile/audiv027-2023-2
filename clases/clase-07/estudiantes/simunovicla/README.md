@@ -2,14 +2,14 @@
 
 # Are you smiling yet?
 
-![Screenshot 2023-09-29 at 16-16-20 p5.js Web Editor Facemesh_Webcam copy.png](Trabajo%20Grupal%20AI%2020a84c66f7e3464fa91cf123706fba8a/Screenshot_2023-09-29_at_16-16-20_p5.js_Web_Editor_Facemesh_Webcam_copy.png)
+![Rasultado final]([Trabajo%20Grupal%20AI%2020a84c66f7e3464fa91cf123706fba8a/Screenshot_2023-09-29_at_16-16-20_p5.js_Web_Editor_Facemesh_Webcam_copy.png](https://github.com/simunovicla/audiv027-2023-2/blob/main/clases/clase-07/estudiantes/simunovicla/Imagenes/1.png))
 
 ## Comenzando...
 
 Inicialmente, habíamos decidido trabajar con la idea de los arquetipos faciales basados en animales.
 Basándonos en el [modelo de Facemesh](https://learn.ml5js.org/#/reference/facemesh) en [siguiente arículo de koraboo](https://www.koreaboo.com/lists/korean-face-shape-animal-puppy-cat-bunny-deer-fox-celebrities-idols/) para determinar parámetros que pudiésemos utilizar para que el programa decidiese otorgar cada arquetipo a la persona frente a la cámara.
 
-![Imagen de WhatsApp 2023-09-29 a las 15.36.56.jpg](Trabajo%20Grupal%20AI%2020a84c66f7e3464fa91cf123706fba8a/Imagen_de_WhatsApp_2023-09-29_a_las_15.36.56.jpg)
+![Modelo original]([Trabajo%20Grupal%20AI%2020a84c66f7e3464fa91cf123706fba8a/Imagen_de_WhatsApp_2023-09-29_a_las_15.36.56.jpg](https://github.com/simunovicla/audiv027-2023-2/blob/main/clases/clase-07/estudiantes/simunovicla/Imagenes/2.jpg))
 
 ## Trabajando el modelo
 
@@ -28,7 +28,7 @@ Encontrándonos con esta dificultad, decidimos reducir la meta en esta oportunid
 
 Logramos en un inicio que el programa dibujase solo un punto, la coordenada 61, sobre  la comesura del labio, fue el punto de referencia que escogimos para probar. 
 
-![El programa dibujando un punto en la coordenada 61.](Trabajo%20Grupal%20AI%2020a84c66f7e3464fa91cf123706fba8a/IMG_0038.png)
+![El programa dibujando un punto en la coordenada 61.]([Trabajo%20Grupal%20AI%2020a84c66f7e3464fa91cf123706fba8a/IMG_0038.png](https://github.com/simunovicla/audiv027-2023-2/blob/main/clases/clase-07/estudiantes/simunovicla/Imagenes/4.png))
 
 El programa dibujando un punto en la coordenada 61.
 
@@ -38,17 +38,17 @@ Seguimos por seleccionar dos puntos adicionales: uno al centro del labio (13) y 
 - 291 comisura labial der.
 - 61 comisura labial izq.
 
-![Acercamiento a coordenadas de referencia (61, 13 y 291, de izquierda a derecha). ](Trabajo%20Grupal%20AI%2020a84c66f7e3464fa91cf123706fba8a/IMG_0048.jpeg)
+![Acercamiento a coordenadas de referencia (61, 13 y 291, de izquierda a derecha). ]([Trabajo%20Grupal%20AI%2020a84c66f7e3464fa91cf123706fba8a/IMG_0048.jpeg](https://github.com/simunovicla/audiv027-2023-2/blob/main/clases/clase-07/estudiantes/simunovicla/Imagenes/5.jpeg))
 
 Acercamiento a coordenadas de referencia (61, 13 y 291, de izquierda a derecha). 
 
 Con esto el programa dibujó estos tres puntos (en lugar de dibujar todos):
 
-![Screenshot 2023-09-22 at 17-23-04 p5.js Web Editor Facemesh_Webcam copy.png](Trabajo%20Grupal%20AI%2020a84c66f7e3464fa91cf123706fba8a/Screenshot_2023-09-22_at_17-23-04_p5.js_Web_Editor_Facemesh_Webcam_copy.png)
+![Tres puntos dibujados]([Trabajo%20Grupal%20AI%2020a84c66f7e3464fa91cf123706fba8a/Screenshot_2023-09-22_at_17-23-04_p5.js_Web_Editor_Facemesh_Webcam_copy.png](https://github.com/simunovicla/audiv027-2023-2/blob/main/clases/clase-07/estudiantes/simunovicla/Imagenes/6.png))
 
 Pero aún no sabíamos como acceder a la distancia entre estos puntos, o lograr acceder a más información. Leyendo bien la documentación, y con ayuda del equipo docente, logramos acceder a la información de los puntos por medio de constantes. 
 
-![Trabajando con el equipo docente. ](Trabajo%20Grupal%20AI%2020a84c66f7e3464fa91cf123706fba8a/IMG_0039.jpeg)
+![Trabajando con el equipo docente. ]([Trabajo%20Grupal%20AI%2020a84c66f7e3464fa91cf123706fba8a/IMG_0039.jpeg](https://github.com/simunovicla/audiv027-2023-2/blob/main/clases/clase-07/estudiantes/simunovicla/Imagenes/7.jpeg))
 
 Trabajando con el equipo docente. 
 
@@ -65,7 +65,7 @@ La idea es lograr comparar la variable más constante (distancia entre dos punto
 
 En base a esta división, obtuvimos un porcentaje en consola mediante `console.log`, y definimos que los valores superiores a 0.7 determinasen una sonrisa. 
 
-![El programa detecta que la persona esta sonriendo. ](Trabajo%20Grupal%20AI%2020a84c66f7e3464fa91cf123706fba8a/Screenshot_2023-09-29_at_16-21-12_p5.js_Web_Editor_Facemesh_Webcam_copy.png)
+![El programa detecta que la persona esta sonriendo. ]([Trabajo%20Grupal%20AI%2020a84c66f7e3464fa91cf123706fba8a/Screenshot_2023-09-29_at_16-21-12_p5.js_Web_Editor_Facemesh_Webcam_copy.png](https://github.com/simunovicla/audiv027-2023-2/blob/main/clases/clase-07/estudiantes/simunovicla/Imagenes/8.png))
 
 El programa detecta que la persona esta sonriendo. 
 
