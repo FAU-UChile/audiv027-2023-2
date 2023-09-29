@@ -47,7 +47,11 @@ Luego el programa permite medir el nivel de Vio o Perkin de la persona
 **Exportacion a p5**
 Despues se procedio a pasar la informacion a p5 lo que nos permite exportar el proyecto entrenado para poder mostrarlo en otros computadores 
 mediante Tensorflow
-https://editor.p5js.org/Toomanypanchos/sketches/T1kLXQod5
+[editor.p5js.org](https://editor.p5js.org/Toomanypanchos/sketches/T1kLXQod5)
+Para esto exportamos de teachable machine a p5 una carpeta con la informacion en formato .json
+
+![image](https://github.com/Toomanypanchos/audiv027-2023-2/assets/89993556/96804b2f-2dff-4e0d-9fc9-b2be9a510cee)
+
 Utilizamos el codigo que ofrece ml5 en github para el procesamiento de video mediante p5.js
 [Github](https://github.com/ml5js/ml5-library/blob/main/examples/p5js/ImageClassification/ImageClassification_Video/sketch.js)
 
