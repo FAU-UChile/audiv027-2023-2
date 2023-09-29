@@ -74,11 +74,18 @@ pero despues nos dimos cuenta que la gesticulacion no verbal(gesto de manos) era
 
 **Materiales**
 -Teachable machine de google
+
 -Biblioteca de ml5
+
 -Reproductor de modelo p5
+
 -imagenes de google
+
 -Chat GTP
+
 -Nacho
+
+-camara
 
 **Conclusiones**
 
