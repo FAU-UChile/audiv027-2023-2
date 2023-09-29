@@ -19,9 +19,14 @@ Una vez duplicado, alteramos el texto de ejemplo y las dimensiones de la reprodu
 Paginas utilizadas: teachablemachine, editor.p5js.org, kaggle.com
 Materiales: Camara web
 
+imagenes de prueba en teachablemachine
 ![Captura de pantalla 2023-09-22 171829](https://github.com/maite31/audiv027-2023-2/assets/85259640/a1bf1601-62d8-4e28-be0b-c2e0b7b51cfb)
 ![Captura de pantalla 2023-09-22 171806](https://github.com/maite31/audiv027-2023-2/assets/85259640/4bd70f91-1cdd-4763-b383-823d2fb266f2)
 
 ![Captura de pantalla 2023-09-22 171638](https://github.com/maite31/audiv027-2023-2/assets/85259640/b1dfc73e-319d-4d8c-a389-d2d82597b0ab)
 ![Captura de pantalla 2023-09-22 171606](https://github.com/maite31/audiv027-2023-2/assets/85259640/8245df8a-e25a-4385-8088-8ea539ca6b4f)
 
+![Captura de pantalla 2023-09-22 170933](https://github.com/maite31/audiv027-2023-2/assets/85259640/db709e44-e71a-4794-8169-103beeaf7b5a)
+![Captura de pantalla 2023-09-22 170914](https://github.com/maite31/audiv027-2023-2/assets/85259640/6580eb39-d547-45cb-b222-f43cb8d5cdc4)
+
+![Captura de pantalla 2023-09-22 164251](https://github.com/maite31/audiv027-2023-2/assets/85259640/48d42332-6bde-4ea5-b827-f4e97617fdc3)
