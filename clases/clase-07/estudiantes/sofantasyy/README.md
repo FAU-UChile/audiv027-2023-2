@@ -22,6 +22,7 @@ Ramo: Inteligencia artificial (AUDIV027-1)
 _____
 ## Generador de texto mediante posturas de las manos
 Mediante distintas posturas de manos establecidas previamente, atravez de la webcam, esta inteligencia artificial puede generar textos aleatorios.
+La idea es que con tu mano y estas 4 posturas ✊ 🖐 ✌️ 👌
 
 ## Codigo
 
@@ -46,3 +47,4 @@ Ademas sacamos ideas de la [clase 2](https://github.com/Val3ntiinA/audiv027-2023
 - Durante el proceso de modificar los tipos de clasificaciones de palabras (sustantivos, vervos, pronombres, adjetivos) segun distintas posturas de manos, nos estancamos en como alimentar la inteligencia con palabras de cada calificacion
 - Queda pendiente aumentar la base de datos segun cada categoria de palabras (sustantivos, vervos, pronombres, adjetivos)
 - Fue complicado agregar nuevas funciones para los nuevos botones.
+- No logramos crear el espacio donde se fuera redactando el texto aleatorio.
