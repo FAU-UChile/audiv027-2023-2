@@ -56,7 +56,7 @@ Utilizamos el codigo que ofrece ml5 en github para el procesamiento de video med
 [Github](https://github.com/ml5js/ml5-library/blob/main/examples/p5js/ImageClassification/ImageClassification_Video/sketch.js)
 
 
-a diferencia de TM(Teachable Machine) este modelo en p5 solo muestra si se considera perkin o vio, determinando la clasificacion de la persona sin ambiguedades 
+A diferencia de TM(Teachable Machine) este modelo en p5 solo muestra si se considera perkin o vio, determinando la clasificacion de la persona sin ambiguedades 
 
 ![image](https://github.com/Toomanypanchos/audiv027-2023-2/assets/89993556/e74b7a92-c503-41dd-8f1c-f1083a2d6c0e)
 
