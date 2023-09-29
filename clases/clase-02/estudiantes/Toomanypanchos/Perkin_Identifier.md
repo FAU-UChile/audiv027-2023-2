@@ -23,7 +23,9 @@ NotPerkin: Futbolistas - Ciudadanos Chilenos - Lemebel - Camiroaga - Zafrada - O
 **Adaptando base de Datos**
 Para poder subir estas fotos al teachable machine y que funcione es necesario adaptarlas para que tengan una dimension de pixeles especificas (224 x 224px) y consistente, lo que facilita a la IA para estandarizar el entrenamiento.
 ![image](https://github.com/Toomanypanchos/audiv027-2023-2/assets/89993556/d3332b86-15de-4e2d-9e5e-7bbe81c3ed8d)
+
 Para esto utilizamos el software [FFmpeg](https://ffmpeg.lav.io/) desarrrollado por Sam.Lavigne.
+![image](https://github.com/Toomanypanchos/audiv027-2023-2/assets/89993556/ec8f3d21-6667-4dea-83af-eed9a84b77aa)
 Este, permite filtrar archivos de diferentes maneras, en este caso especifico se modificaran sus dimensiones para que cumplan con los requerimientos especificos.
 de esta manera se podra agilizar el proceso y modificar toda la base de datos.
 _Intentando usar el software nos dimos cuenta que solo funcionaba para formatos de video y audio por lo que no podiamos utilizarlo para las imagenes de nuestro troyecto_
