@@ -61,7 +61,20 @@ pero despues nos dimos cuenta que la gesticulacion no verbal(gesto de manos) era
 ![image](https://github.com/Toomanypanchos/audiv027-2023-2/assets/89993556/01ce8af0-d3a4-4514-b034-343942481a37)
 
 
+**Materiales**
+-Teachable machine de google
+-Biblioteca de ml5
+-Reproductor de modelo p5
+-imagenes de google
+-Chat GTP
+-Nacho
 
+**Conclusiones**
+
+-El nivel de presicion dependera mucho de la calida de la bibioteca con que se alimente el algoritmo
+-Pueden generarse factores determinantes por interpretaciones de la AI que no se contemplaron desde un principio
+-Trabajar con rasgos faciales es complicado debido a la complejidad de factores que participan (una persona peude verse muy diferente debido a perspectiva o tiempo)
+-
 
 
 
