@@ -56,9 +56,11 @@ a diferencia de TM(Teachable Machine) este modelo en p5 solo muestra si se consi
 Por un momento creimos que el principal factor para determinar entre ambos era el genero (generalmente los personajes nefastos son hombres)
 pero despues nos dimos cuenta que la gesticulacion no verbal(gesto de manos) era un factor determinante para el algoritmo al momento de clasificar 
 
+![image](https://github.com/Toomanypanchos/audiv027-2023-2/assets/89993556/a6f85eee-4a83-48e7-9b4f-b5c0e7651c0a)
+
 ![image](https://github.com/Toomanypanchos/audiv027-2023-2/assets/89993556/01ce8af0-d3a4-4514-b034-343942481a37)
 
-![image](https://github.com/Toomanypanchos/audiv027-2023-2/assets/89993556/a6f85eee-4a83-48e7-9b4f-b5c0e7651c0a)
+
 
 
 
