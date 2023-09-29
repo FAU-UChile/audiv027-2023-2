@@ -21,5 +21,7 @@ Materiales: Camara web
 
 ![Captura de pantalla 2023-09-22 171829](https://github.com/maite31/audiv027-2023-2/assets/85259640/a1bf1601-62d8-4e28-be0b-c2e0b7b51cfb)
 ![Captura de pantalla 2023-09-22 171806](https://github.com/maite31/audiv027-2023-2/assets/85259640/4bd70f91-1cdd-4763-b383-823d2fb266f2)
-![Captura de pantalla 2023-09-22 171806](https://github.com/maite31/audiv027-2023-2/assets/85259640/553474b3-e081-43ea-8976-b5e7b2ef11f4)
-![Captura de pantalla 2023-09-22 171630](https://github.com/maite31/audiv027-2023-2/assets/85259640/9df8f2f4-7aaf-42fd-a1ca-5a139e261ac9)
+
+![Captura de pantalla 2023-09-22 171638](https://github.com/maite31/audiv027-2023-2/assets/85259640/b1dfc73e-319d-4d8c-a389-d2d82597b0ab)
+![Captura de pantalla 2023-09-22 171606](https://github.com/maite31/audiv027-2023-2/assets/85259640/8245df8a-e25a-4385-8088-8ea539ca6b4f)
+
