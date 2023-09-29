@@ -1,3 +1,3 @@
-# titulo
+# APUNTES CLASE N°7
 
-texto
+Trabajé con Sergio Venegas (angcroft) 
