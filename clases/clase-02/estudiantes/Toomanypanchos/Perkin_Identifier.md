@@ -3,9 +3,11 @@
 
 Javiera Parga - Francsico Cabrera
 
+**Perkin Identifier**
+
 La idea del proyeto es crear y entrenar una IA que sea capaz de, mediante su entrenamiento via imagenes, identificar a personas que pertenezcan
 a carabineros de Chile. Permitiendo reconocer si estos se encuentran en dichas imagenes y no para luego catalogar estas imagenes, 
-bajo el prefijo Perkin o NotPerkin.
+bajo el prefijo Perkin o Vio.
 
 Se usara como referencia la pagina ml5 que presenta una guia de como crear y entrenar un modelo de image identifier, 
 utilizando [Teachable Machine](https://teachablemachine.withgoogle.com/train/image) de Google
