@@ -30,6 +30,28 @@ pipipipipipipipipipipi
 
 Encontramos una pagina que lo hacia jeje
 [Paginita](https://bulkresizephotos.com/en?padding=true&quality=1&type=exact&value=224&secondaryValue=224)
-luego de modificadas las fotos de suben al procesod e entrenamiento de Google
+luego de modificadas las fotos de suben a time machine para iniciar el proceso de entrenamiento de Google
+
+**Post Entrenamiento**
+luego de esperar que se entrene (por las dimensiones del proyecto no toma tanto tiempo)
+![image](https://github.com/Toomanypanchos/audiv027-2023-2/assets/89993556/eaeb94d7-1bf7-462c-9557-a3ecb46ed4ff)
+Se definieron la cantidad de epocas en relacion a la cantidad de ciclos que el modelo procesa los grupos de imagenes
+
+Luego el programa permite medir el nivel de Vio o Perkin de la persona 
+![image](https://github.com/Toomanypanchos/audiv027-2023-2/assets/89993556/a7ac2abd-b3d2-4435-9782-4bfa97f61fce)![image](https://github.com/Toomanypanchos/audiv027-2023-2/assets/89993556/aeafcf01-2d55-448e-9fcf-de4fd2a17729)
+
+**Exportacion a p5**
+Despues se procedio a pasar la informacion a p5 lo que nos permite exportar el proyecto entrenado para poder mostrarlo en otros computadores 
+mediante Tensorflow
+https://editor.p5js.org/Toomanypanchos/sketches/T1kLXQod5
+Utilizamos el codigo que ofrece ml5 en github para el procesamiento de video mediante p5.js
+[Github](https://github.com/ml5js/ml5-library/blob/main/examples/p5js/ImageClassification/ImageClassification_Video/sketch.js)
+
+
+a diferencia de TM(Teachable Machine) este modelo en p5 solo muestra si se considera perkin o vio, determinando la clasificacion de la persona sin ambiguedades 
+![image](https://github.com/Toomanypanchos/audiv027-2023-2/assets/89993556/e74b7a92-c503-41dd-8f1c-f1083a2d6c0e)
+
+
+
 
 
