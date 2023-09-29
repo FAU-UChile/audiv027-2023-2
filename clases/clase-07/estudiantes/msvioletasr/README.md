@@ -1,4 +1,4 @@
-# Primer Trabajo
+# Primer Trabajo Grupo 8
 
 Integrantes: Violeta Silva, Fae Ávila y Kamila Mansilla
 
