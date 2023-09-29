@@ -14,3 +14,6 @@ https://github.com/Angcroft/audiv027-2023-2/assets/69369902/814668d4-8faa-4dcf-8
 
 CONCLUSIÓN </br>
 Podemos concluir, entre los errores que cometimos durante el desarrollo del proyecto, que loops que no son cerrados pueden generar problemas en el rendimiento de una computadora. La cual la solucionamos por medio de una condicional (línea 45), el cual consigue evitar la repetición infinita de un objeto en el documento. Otro problema, el cual es notable mencionar, es que a consecuencia de la solución que logramos, esto nos limita al no ser capaz de registrar más de una vez el objeto que vuelve a aparecer en la pantalla. Podemos mencionar también, aún así entendible, lo poco preciso que es ml5 respecto a la detección de objetos, esto a consecuencia que es capaz de registrar 5 nombres distintos en un lápiz que aparece en la pantalla, por ejemplo.
+
+Página del sitio funcionando
+https://angcroft.github.io/control_proyecto/
