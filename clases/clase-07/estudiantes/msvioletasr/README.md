@@ -22,6 +22,9 @@ Para crear este modelo usamos el tutorial sobre SoundClassification de learn.ml5
 
 Respecto a los referentes se tomaron en cuenta en primer lugar Shazam, ya que queríamos simular la identificación de música que logra hacer esta aplicación, y para esto queríamos usar Sound Classification, pero teniendo en cuenta la complejidad para programar algo así, decidimos tomar como referente diversos reconocimientos de voz, grabando nuestras propias voces.
 
+Biometría de voz: Sistema de identificación
+Google usa inteligencia artificial para crear un modelo de voz
+
 # Registro:
 
 Para empezar leímos la página del tutorial de SoundClassification, luego de lo cual decidimos usar Teachable Machine para crear un modelo entrenado propio que reemplazara el que ya estaba. 
