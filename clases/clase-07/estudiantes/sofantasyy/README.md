@@ -194,6 +194,7 @@ const LABELS_MAP = {
 ## Imagenes
 ![WhatsApp Image 2023-09-29 at 16 32 40](https://github.com/Val3ntiinA/AdelantoEntregable/assets/143841281/526c335f-228e-425c-a435-3cda966bd0d2)
 
+
 ![WhatsApp Image 2023-09-29 at 16 32 40 (1)](https://github.com/Val3ntiinA/AdelantoEntregable/assets/143841281/db5e6578-07a9-45fa-a0c8-7e2f355f54ea)
 
 ## Materiales 
@@ -213,7 +214,7 @@ Ademas sacamos ideas de la [clase 2](https://github.com/Val3ntiinA/audiv027-2023
 
 ## Concluciones y aprendizajes 
 - Logramos modificar los codigos de una iteligencia artificial preexistente, agregando nuevos elementos para cambiar la funcion de esta.
-- Logramos modificar que las posturas de manos tuvieran las clasificaciones de sustantivos verbos pronombres y adjetivos
+- Logramos modificar que las posturas de manos para que tuvieran las clasificaciones de sustantivos verbos pronombres y adjetivos segun ✊ 🖐 ✌️ 👌.
 - Durante el proceso de modificar los tipos de clasificaciones de palabras (sustantivos, verbos, pronombres, adjetivos) segun distintas posturas de manos, nos estancamos en como alimentar la inteligencia con palabras de cada calificacion
 - Queda pendiente aumentar la base de datos segun cada categoria de palabras (sustantivos, verbos, pronombres, adjetivos)
 - No logramos agregar nuevas funciones para los nuevos botones como el de detener generador de texto.
