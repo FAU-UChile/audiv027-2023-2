@@ -53,6 +53,6 @@ desde este momento la red identifica el cambio de modelo y comienza a dibujar pa
 
 https://github.com/joaquinsuazo/audiv027-2023-2/assets/128074599/5a88af0f-d697-47e8-9ea7-b28f759fc6b1
 
-## Concluciones 
+## Conclusiones 
 
 Mediante este ejercicio pudimos reconocer la capacidad de modificar un ejemplo de la libreria ml5js mediante el uso de información proporcionada para este en la página de el creador que se puede encontrar en Github, en este caso luego de revisar el codigo e identificar los elementos que podían variar pero que conservaban la función de el ejemplo nos permitió modificar solo un fragmento y obtener un cambio notable. También pudimos comprender que al repasar los distintos ejemplos de la librería y discutir como grupo cuales son las funciones que nos parecen más interesantes, se pueden combinar y aprovechar más de una función para así crear un nuevo codigo que una elementos presentes en los ejemplos y cumpla con los objetivos que nos propongamos.
