@@ -19,8 +19,7 @@ Ayudante : [Ignacio Passalacqua](https://github.com/ipassala)
 Ramo: Inteligencia artificial (AUDIV027-1)
 _____
 ## Generador de texto mediante posturas de las manos
-Mediante distintas posturas de manos establecidas previamente, atravez de la webcam, esta inteligencia artificial puede generar textos aleatorios.
-La idea es que mediante tu mano y las posturas preestablecidas 
+La idea de funcionamiento de la inteligencia es que, a partir de la clasificación de posturas de manos capturadas por una Webcam, estas tengan una salida de aleatoria de Pronombres, Sustantivos, Adjetivos y Verbos según las posturas antes ingresadas. La generación de texto resultante deriva de una confianza mínima del 70% en relación a las posturas identificadas con la Webcam.
 
 ## Codigo
 ### Index
@@ -214,6 +213,8 @@ Ademas sacamos ideas de la [clase 2](https://github.com/Val3ntiinA/audiv027-2023
 
 ## Concluciones y aprendizajes 
 - Logramos modificar los codigos de una iteligencia artificial preexistente, agregando nuevos elementos para cambiar la funcion de esta.
-- Durante el proceso de modificar los tipos de clasificaciones de palabras (sustantivos, vervos, pronombres, adjetivos) segun distintas posturas de manos, nos estancamos en como alimentar la inteligencia con palabras de cada calificacion
-- Queda pendiente aumentar la base de datos segun cada categoria de palabras (sustantivos, vervos, pronombres, adjetivos)
-- Fue complicado agregar nuevas funciones para los nuevos botones.
+- Logramos modificar que las posturas de manos tuvieran las clasificaciones de sustantivos verbos pronombres y adjetivos
+- Durante el proceso de modificar los tipos de clasificaciones de palabras (sustantivos, verbos, pronombres, adjetivos) segun distintas posturas de manos, nos estancamos en como alimentar la inteligencia con palabras de cada calificacion
+- Queda pendiente aumentar la base de datos segun cada categoria de palabras (sustantivos, verbos, pronombres, adjetivos)
+- No logramos agregar nuevas funciones para los nuevos botones como el de detener generador de texto.
+- Otro aprendizaje fue el hecho de ajustarnos al tiempo, ya que tuvimos que bajar las expectativas del trabajo. Una de las cosas que faltó desarrollar fue que efectivamente generar texto a partir de la confianza dada a partir del detector de poses. 
