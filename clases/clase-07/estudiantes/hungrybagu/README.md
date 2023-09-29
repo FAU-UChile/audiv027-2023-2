@@ -1,3 +1,3 @@
 control 1 
 
-Trabaje con Angroft y machitun2002
+Trabaje con Angroft (sergio venegas) y machitun2002 (josefa valdebenito)
