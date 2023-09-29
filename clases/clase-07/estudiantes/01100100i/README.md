@@ -10,18 +10,22 @@ Entonces lo intentamos al revés, integrando el codigo de dibujo en el de handpo
 
 <img src="https://github.com/01100100i/audiv027-2023-2/assets/142625648/d3cae4e7-65a2-4283-aca0-c078e3b27b0d" width="400" height="250" />
 
+
 Encontramos [Rock, Paper, Scissors](https://editor.p5js.org/tlsaeger/sketches/xL2DrkcEb) que ya tiene la capacidad de reconocer las manos y etiquetarlas, ademas de imprimir formas en la pantalla y le ajustamos las formas que queríamos usar como pinceles. 
 
 <img src="https://github.com/01100100i/audiv027-2023-2/assets/142625648/c0cd3649-3660-46f1-8c3e-cdd745405e75" width="400" height="250" />
+
 
 Ya con las formas base del pincel necesitabamos crear el trazo, para esto pensamos que debiamos recuperar las coordenadas de donde se reconoce la mano para que pudiese dibujar arrastrando la forma en tiempo real. 
 Intentamos imprimirlas en el console pero explotó.
 
 <img src="https://github.com/01100100i/audiv027-2023-2/assets/142625648/33282b2e-9dca-4773-84cb-323405228c19" width="400" height="250" />
 
+
 Estaba mal escrito jeje, ya tenemos las coordenadas de la posicion de la mano en el console. 
 
 <img src="https://github.com/01100100i/audiv027-2023-2/assets/142625648/86a1863b-5e74-4f81-a4ab-279ac270b8fd" width="400" height="250" />
+
 
 Llegamos a clases el viernes y no pudimos hacer funcinar la webcam externa, conectamos el usb en el otro puerto y funcionó.
 
@@ -29,16 +33,19 @@ Llegamos a clases el viernes y no pudimos hacer funcinar la webcam externa, cone
 <img src="https://github.com/01100100i/audiv027-2023-2/assets/142625648/b96e2658-77da-464b-a83c-c47dbe284ac5" width="400" height="250" />
 
 
+
 Estuvimos buscando como dibujar en modo pincel ya que la forma estaba estática, en un comienzo solo logramos mover la forma de manera indepentiente sin seguir la mano. 
 
 <img src="https://github.com/01100100i/audiv027-2023-2/assets/142625648/4defaa4b-cfff-4dcb-9bb6-7522e2319265" width="400" height="250" />
 <img src="https://github.com/01100100i/audiv027-2023-2/assets/142625648/d1a95484-ed89-4bcf-adde-954fdcbf4711" width="400" height="250" />
+
 
 Nos dimos cuenta con ayuda de chatgpt que nos faltaba definir la variable del outputlabel así que la definimos y se empezó a mover la forma con la mano pero el outputlabel en formato texto y no forma. 
 
 <img src="https://github.com/01100100i/audiv027-2023-2/assets/142625648/f47f1b38-bc27-4c72-805b-731907169657" width="400" height="250" />
 
 Esto pasó porque estabamos definiendo el label y no el outputlabel, lo cambiamos y funcionó bien! 
+
 <img src="https://github.com/01100100i/audiv027-2023-2/assets/142625648/c871d4a6-0fd5-4fc5-92b4-35029254ccc6" width="400" height="250" />
 
 Definimos el html y dejamos puestas las intrucciones y los botones correspondientes.
@@ -55,6 +62,7 @@ En el canvas del trazado intentamos mover la forma base, pero no estaba bien def
 Definimos bien el output desde donde dibujar el trazo del pincel y listo! ahora podemos dibujar haciendo gestos con las manos!
 
 <img src="https://github.com/01100100i/audiv027-2023-2/assets/142625648/708ba396-9658-4d98-a392-71dea8ccfb7a" width="400" height="250" />
+
 
 Pudimos observar que hay pequeños detalles que pueden interferir en el funcionamiento del código, ya sea errores de tipeo o paréntesis mal puestos que producen una seguidilla de errores que terminan por producir un caos :( Es por esto que fue necesario trabajar de la manera más ordena posible y estar revisando bien el código constantemente para que no existieran errores. Además tuvimos errores mecánicos como el del usb.
 También fue difícil ir encontrando las diversas funciones para poder ir logrando lo que se nos iba ocurriendo al momento de hacer el código. Gracias a chatgpt por ayudarnos en esos momentos difíciles <3
