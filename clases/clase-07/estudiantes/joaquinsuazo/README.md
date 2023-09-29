@@ -1,4 +1,4 @@
-# clase-06
+# clase-07
 
 estoy trabajando con [joaquinsuazo](https://github.com/joaquinsuazo)
 
