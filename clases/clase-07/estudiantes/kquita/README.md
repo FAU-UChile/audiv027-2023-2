@@ -204,6 +204,7 @@ const LABELS_MAP = {
  #### Hardware
   + Computador
   + Webcam
+  + Una mano
 
  #### Software: 
   + p5.js
