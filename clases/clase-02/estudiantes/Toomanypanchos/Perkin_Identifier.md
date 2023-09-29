@@ -9,6 +9,8 @@ La idea del proyeto es crear y entrenar una IA que sea capaz de, mediante su ent
 a carabineros de Chile. Permitiendo reconocer si estos se encuentran en dichas imagenes y no para luego catalogar estas imagenes, 
 bajo el prefijo Perkin o Vio.
 
+A lo largo del proyecto se extendio la amplitud de las persoans que se consideraban perkines, dado a que sentimos que existian mas persoans nefastas en al sociedad aparte de carabineros.
+
 Se usara como referencia la pagina ml5 que presenta una guia de como crear y entrenar un modelo de image identifier, 
 utilizando [Teachable Machine](https://teachablemachine.withgoogle.com/train/image) de Google
 ![image](https://github.com/Toomanypanchos/audiv027-2023-2/assets/89993556/c5a22821-79e1-4feb-8685-d2fa00f24cad)
