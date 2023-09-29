@@ -80,6 +80,7 @@ Material requerido: Una mano, camara
 
 Pudimos observar que hay pequeños detalles que pueden interferir en el funcionamiento del código, ya sea errores de tipeo o paréntesis mal puestos que producen una seguidilla de errores que terminan por producir un caos :( Es por esto que fue necesario trabajar de la manera más ordena posible y estar revisando bien el código constantemente para que no existieran errores. Además tuvimos errores mecánicos como el del usb.
 También fue difícil ir encontrando las diversas funciones para poder ir logrando lo que se nos iba ocurriendo al momento de hacer el código. Gracias a chatgpt por ayudarnos en esos momentos difíciles <3
+Otra conclusión que pudimos sacar una vez funcionando el modelo, es que para reconocer las manos de buena manera es necesario tener un fondo lo mas plano posible para no confundir los keypoints de las manos. 
 De todas formas fue entretenido ir viendo los errores mientras realizábamos el proyecto, creemos que el mayor aprendizaje lo llevamos desde los errores y de cómo los fuimos solucionando.
 
 
