@@ -1,5 +1,9 @@
 # Genshin impact Character Recognizer
 
+Maite Ballesteros (maite31)
+Carolina Bascuñan (Hartweey)
+Alex Koller (latexlavanda)
+
 https://editor.p5js.org/maite31/sketches/YB42-Borj editor
 https://editor.p5js.org/maite31/full/YB42-Borj pagina
 
