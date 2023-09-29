@@ -63,6 +63,7 @@ Definimos bien el output desde donde dibujar el trazo del pincel y listo! ahora 
 
 <img src="https://github.com/01100100i/audiv027-2023-2/assets/142625648/708ba396-9658-4d98-a392-71dea8ccfb7a" width="400" height="250" />
 
+[Video de uso](https://github.com/01100100i/audiv027-2023-2/assets/142625648/35c16e54-0c73-418e-9c77-f36320755fab)
 
 Pudimos observar que hay pequeños detalles que pueden interferir en el funcionamiento del código, ya sea errores de tipeo o paréntesis mal puestos que producen una seguidilla de errores que terminan por producir un caos :( Es por esto que fue necesario trabajar de la manera más ordena posible y estar revisando bien el código constantemente para que no existieran errores. Además tuvimos errores mecánicos como el del usb.
 También fue difícil ir encontrando las diversas funciones para poder ir logrando lo que se nos iba ocurriendo al momento de hacer el código. Gracias a chatgpt por ayudarnos en esos momentos difíciles <3
