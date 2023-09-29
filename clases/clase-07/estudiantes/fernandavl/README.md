@@ -42,4 +42,4 @@ https://editor.p5js.org/fernandavl/sketches/-K6lR1tqi
 
 ![alt](assets/2.jpg "foto paso3")
 
-![alt](assets/3.jpg "foto paso3"
+![alt](assets/3.jpg "foto paso3")
