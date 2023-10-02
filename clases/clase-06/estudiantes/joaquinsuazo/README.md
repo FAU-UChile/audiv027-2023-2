@@ -48,6 +48,10 @@ desde este momento la red identifica el cambio de modelo y comienza a dibujar pa
 
 https://github.com/joaquinsuazo/audiv027-2023-2/assets/128074599/5a88af0f-d697-47e8-9ea7-b28f759fc6b1
 
+## Concluciones 
+
+
+
 
 
 
