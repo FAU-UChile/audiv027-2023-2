@@ -8,3 +8,4 @@ Desde el computador (Este equipo>Documentos>Arduino>Libraries) crear una carpeta
 Copiamos y pegamos todos los archivos del zip extraido (menos la carpeta ".github") en la carpeta que creamos (Arduino_TensorFlowLite)
 Abrimos nuevamente arduino para ver los cambios.Debería aparecer ahora hello_world en: "File>Examples>Arduino_TensorFlowLite>hello_world"
 En el ícono de bibliotecas buscamos "ArduinoBle" e instalamos. Instalamos también "Arduino_LSM9DS1 by Arduino"
+Utilizamos los links subidos a ucursos "fruit identification using Arduino"
