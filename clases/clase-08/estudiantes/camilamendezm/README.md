@@ -19,7 +19,7 @@ machine learning movil
 - adentro de void loop escribir "Serial.println"
 
 
-se ve:
+se ve: /br/
 void setup() {
 Serial.begin(9600) ;
 }
