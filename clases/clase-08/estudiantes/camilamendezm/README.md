@@ -16,7 +16,7 @@ machine learning movil
 - subir codigo con boton -> (subir)
 - adentro del tab en linea 3, abajo de void setup, escribir "Serial." (debe ponerse Serial.begin)
 - en begin poner velocidad "9600" (comun de arduino)
-- adentro de void loop escribir "Serial.println"
+- adentro de void loop escribir "Serial.println" y escribir lo que queremos que diga
 
 
 se ve:
@@ -32,3 +32,13 @@ void loop() {
 Serial.println("XXX") ;
 
 }
+
+
+**agregar librerias(bibliotecas) a arduino**
+- en el tercer icono
+- apds (sensor)
+- tensowflow, se desarga en google
+
+carpeta src: tiene el cosigo fuente
+
+#include: lee el arvhico y lo usa
