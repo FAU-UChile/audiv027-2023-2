@@ -1,3 +1,3 @@
-# titulo
+control 1 
 
-texto
+Trabaje con Angroft (sergio venegas) y machitun2002 (josefa valdebenito)
