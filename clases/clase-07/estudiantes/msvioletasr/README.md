@@ -1,4 +1,4 @@
-# Primer Trabajo
+# Primer Trabajo Grupo 8
 
 Integrantes: Violeta Silva, Fae Ávila y Kamila Mansilla
 
@@ -10,9 +10,20 @@ Link a p5.js embed: https://editor.p5js.org/msvioletasr/sketches/TyKuLwPm0
 
 Para crear este modelo usamos el tutorial sobre SoundClassification de learn.ml5js.org. Duplicamos y editamos el ejemplo incluido en esa página. Además, usamos el modo de audio de Teachable Machine para entrenar nuestro modelo. 
 
+-Computador o celular
+
+-Micrófono
+
+-Conexión a internet
+
+-Voz
+
 # Referentes: 
 
 Respecto a los referentes se tomaron en cuenta en primer lugar Shazam, ya que queríamos simular la identificación de música que logra hacer esta aplicación, y para esto queríamos usar Sound Classification, pero teniendo en cuenta la complejidad para programar algo así, decidimos tomar como referente diversos reconocimientos de voz, grabando nuestras propias voces.
+
+Biometría de voz: Sistema de identificación
+Google usa inteligencia artificial para crear un modelo de voz
 
 # Registro:
 
@@ -51,4 +62,11 @@ Finalmente, cambiamos el texto que originalmente estaba en inglés por uno en es
 
 # Conclusión 
 
-En conclusión al usar Teachable Machine se logró reconocer y diferenciar 5 tipos de sonido, siendo estos: Sonido de fondo, voces de Violeta, Fae, Damian y Kamila. No tuvimos dificultad al usar Teachable Machine, que fue un programa muy intuitivo. Pero por otro lado, fue complicado poder incorporar nuestro modelo entrenado a p5.js ya que al principio intentamos descargar el modelo y ponerlo como archivo, pero necesitábamos ponerlo como sitio web (html), para lo cual no encontramos instrucciones. Pero con la orientación del profesor pudimos solucionar este problema y crear un programa funcional.
+En conclusión al usar Teachable Machine se logró reconocer y diferenciar 5 tipos de sonido, siendo estos: Sonido de fondo, voces de Violeta, Fae, Damian y Kamila. 
+
+No tuvimos dificultad al usar Teachable Machine, que fue un programa muy intuitivo ya que este presentaba colores, formas y textos que son amigables para el usuario que recién se va incorporando; en sí la interfaz guía al usuario a través de un paso a paso muy visual y ordenado, y el flujo dentro del sitio es simple, directo y conciso, ya que no se necesita ir a otra pestaña para poder usar esta herramienta. Además, en ningún momento tuvimos que usar código para obtener el modelo entrenado, ya que venía integrado dentro del programa.
+
+![ui](https://github.com/msvioletasr/audiv027-2023-2/assets/142625864/422cf0c8-639a-4917-af11-05c031b7b882)
+
+
+Pero por otro lado, fue complicado poder incorporar nuestro modelo entrenado a p5.js ya que al principio intentamos descargar el modelo y ponerlo como archivo, pero necesitábamos ponerlo como sitio web (html), para lo cual no encontramos instrucciones claras o simples. Pero con la orientación del profesor pudimos solucionar este problema y crear un programa funcional.
