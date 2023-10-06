@@ -16,4 +16,7 @@ Abrimos nuevamente arduino para ver los cambios.Debería aparecer ahora hello_wo
 
 En el ícono de bibliotecas buscamos "ArduinoBle" e instalamos. Instalamos también "Arduino_LSM9DS1 by Arduino"
 
-Utilizamos los links subidos a ucursos "fruit identification using Arduino"; en googlecolab
+Utilizamos los links subidos a ucursos "fruit identification using Arduino" en googlecolab. Con el sensor del arduino se identifican los colores de objetos materiales y se clasifican en las 3 categorias: Banana, apple, orange(indicando su porcentaje). Entrenamos el modelo para que asocie colores a 3 categorias (ej; tapa, botella, billetera".
+
+
+
