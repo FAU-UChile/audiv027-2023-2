@@ -11,6 +11,8 @@ Instalamos desde el board manager el board Arduino Nano 33 BLE.
 
 Luego, instalar la bliblioteca APDS desde el library manager y tensor flow desde google se carga el codigo
 
-Vamos a entrenar el modelo de clasificación de colores y objetos con ayuda de Google Collab 
+Vamos a entrenar el modelo de clasificación de colores y objetos con ayuda de Google Collab (los link estan en el foro de u cursos) 
+
+
 
 
