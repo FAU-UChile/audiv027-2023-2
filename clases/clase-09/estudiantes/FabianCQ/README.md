@@ -23,6 +23,8 @@ I2C SPI es un sistema de comunicación entre controladores Arduino.
 TinyMLx (Tiny test camera of Machine Learning from the web page 'x' form a collaboration between harvard and MIT).
 
 
+
+
 Instrucciones
 
 
