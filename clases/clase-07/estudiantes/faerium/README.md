@@ -1,3 +1,4 @@
-# titulo
+# Clase 07
 
-texto
+Link a trabajo Grupo 8:
+clases/clase-07/estudiantes/msvioletasr
