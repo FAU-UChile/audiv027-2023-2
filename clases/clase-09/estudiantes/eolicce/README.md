@@ -24,5 +24,10 @@ Reconocimiento de voz a través de Arduino; utilizamos un microfono y los result
 -gpogle summer of code
 
 Buscamos en la biblioteca de arduino "tinyml" e instalamos el que dice "Harvard_TinyMLx" > revisamos el ejemplo que trae > test_camera
+Utilizamos la camara del arduino conectandola a la placa que trae el kit.
+
+
+
+
 
 
