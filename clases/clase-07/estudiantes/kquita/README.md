@@ -1,10 +1,8 @@
 # Entregable
-
 Hola, bienvenido. 
-
 Esta es la documentacion del primer proyecto!
-
 Estoy trabajando con [sofantasyy](https://github.com/sofantasyy) y [val3ntiina](https://github.com/val3ntiina)
+
 
 # knn Clasificador de imagenes de posturas de manos tomadas por webcam para generar textos aleatorios. Desarrollado por p5.js
 
@@ -40,20 +38,20 @@ La idea de funcionamiento de la inteligencia es que, a partir de la clasificaci�
 
   </head>
   <body>
-
-
+    
+    
     <!--Cambio de título de inteligencia -->
-
-
+    
+    
      <!--<h2>KNN Classification on Webcam Images with Hand pose model. Built with p5.js</h2> -->
-
+    
    <h2>KNN Clasificador de imagenes de posturas de manos tomadas por Webcam para generar textos aleatorios. Desarrollado con p5.js</h2>
-
-
+    
+    
     <!--Creación de bajada de titular de inteligencia con el paso a paso para utilizarla -->
-
+    
     <h4>Pasos para utilizar la inteligencia!<p> NOTA:Debes permitir el uso de tu Webcam</h4><p>
-
+   
     </4>1. Agrega capturas de posturas de manos según los emojis sugeridos utilizando la Webcam.<p>
   2. Realiza esto con cada ítem: Verbo, Sustantivo, Pronombre y Adjetivo.<p>
   3. Presiona el  botón "Genera tu texto!" para  comenzar a identificar con la Webcam las posturas según la base de datos ingresada en el paso anterior.<p>
@@ -64,29 +62,29 @@ La idea de funcionamiento de la inteligencia es que, a partir de la clasificaci�
   <div id="canvasContainer"></div>
   <p id="status">Loading Model...</p>
   <p>
-
-
-
+    
+    
+    
     <!--Redacción de una bajada donde se ubicará el texto aleatorio generado-->
-
-
+    
+    
     <!-- KNN Classifier with mobileNet model labeled this
     as Class: <span id="result">...</span>
     with a confidence of <span id="confidence">...</span>
   </p>
   <p> -->
-
+    
     KNN Classifier with mobileNet model labeled this
     as Class: <span id="result">...</span>
     with a confidence of <span id="confidence">...</span>
   </p>
   <p>
-
-
-
+   
+    
+     
   <!--Cambio de nombres de botones originales para ingresar posturas y creación de un nuevo botón -->
-
-
+  
+    
     <!--     <span class="emoji"> ✊ </span><button id="addClassRock">Add an Example to Class Rock</button> -->
 <!--     <button id="resetRock">Reset Class Rock</button> -->
 <!--     </p><p><span id="exampleRock">0</span> Rock examples | Confidence in Rock is: <span id="confidenceRock">0</span></p> -->
@@ -98,6 +96,8 @@ La idea de funcionamiento de la inteligencia es que, a partir de la clasificaci�
 <!--     <span class="emoji"> ✌️ </span><button id="addClassScissor">Add an Example to Class Scissor</button> -->
 <!--     <button id="resetScissor">Reset Class Scissor</button> -->
 <!--     <p><span id="exampleScissor">0</span> Scissor examples | Confidence in Scissor is: <span id="confidenceScissor">0</span></p> 
+
+
  <p>
     <button id="buttonPredict">Start predicting!</button><br />
     <button id="clearAll">Clear all classes</button><br />
@@ -105,37 +105,37 @@ La idea de funcionamiento de la inteligencia es que, a partir de la clasificaci�
     <script src="sketch.js"></script>
   </body>
 </html>-->
-
-
+    
+    
     <span class="emoji"> ✊ </span><button id="addClassVerbo">Agregar ejemplo de pose de Verbo</button>
     <button id="resetVerbo">Resetear postura de Verbo</button>
     </p><p><span id="exampleVerbo">0</span> Ejemplos de Verbo |  Confianza de Verbo: <span id="confidenceVerbo">0</span></p>
 
-
+    
     <span class="emoji"> 🖐 </span><button id="addClassSustantivo">Agregar ejemplo de pose de Sustantivo  </button>
     <button id="resetSustantivo">Resetear postura de Confianza de</button>
     <p><span id="exampleSustantivo">0</span> Ejemplos de Sustantivo  | Confianza de Sustantivo : <span id="confidenceSustantivo">0</span></p>
 
-
+    
     <span class="emoji"> ✌️ </span><button id="addClassPronombre">Agregar ejemplo de pose de Pronombre</button>
     <button id="resetPronombre">Resetear postura de Pronombre </button>
     <p><span id="examplePronombre">0</span> Ejemplos de Pronombre | Confianza de Pronombre: <span id="confidencePronombre">0</span></p>
-
-
+  
+    
         <span class="emoji"> 👌 </span><button id="addClassAdjetivo">Agregar ejemplo de pose de Adjetivo</button>
     <button id="resetAdjetivo">Resetear postura de Adjetivo</button>
     <p><span id="exampleAdjetivo">0</span> Ejemplos de Adjetivo | Confianza de Adjetivo: <span id="confidenceAdjetivo">0</span></p>
-
-
+    
+        
   <p>
     <button id="buttonPredict">Genera tu texto!</button><br />
-
-
+    
+    
     <!-- Creación de un nuevo botón para detener predicción y generación de texto aleatorio-->
-
+    
     <button id="buttonStopPredict">Detener generación de texto</button><br />
-
-
+      
+      
     <button id="clearAll">Empezar todo desde cero</button><br />
   </p>
     <script src="sketch.js"></script>
@@ -147,8 +147,11 @@ La idea de funcionamiento de la inteligencia es que, a partir de la clasificaci�
 ```java
 /*
 Hand Tracking + KNN Classifier
+
 The example lets you train a knn algorithm to classify handposes
+
 Built with handPose model from tf.js, knn-classifier from ml5js and p5js
+
 Created by Yining Shi & Andreas Refsgaard 2020
 */
 
@@ -156,6 +159,7 @@ Created by Yining Shi & Andreas Refsgaard 2020
 Hand Tracking + KNN Classifier
 En este ejemplo puedes entrenar el algoritmo knn para clasificar poses de manos. 
 este modelo se construye desde tf.js, knn-classifier desde la biblioteca de ml5js y con p5js.
+
 Creado por Yining Shi & Andreas Refsgaard 2020
 */
 
