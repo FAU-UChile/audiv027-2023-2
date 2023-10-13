@@ -26,7 +26,7 @@ claudio ruiz: funda derechos digitales en chile
 
 **streaming**
 - arduino > libraries > harvard_tinymlx > extras > cameravisualizerrawbytes
-
+- 
 ### links
 - https://www.tensorflow.org/lite/microcontrollers?hl=es-419
 - https://github.com/tensorflow/tflite-micro/blob/main/tensorflow/lite/micro/examples/micro_speech/train/README.md
