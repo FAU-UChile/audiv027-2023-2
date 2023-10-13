@@ -1,5 +1,6 @@
 # Apuntes clase 13 de octubre
 
+Micro_speech de tensorflow reconoce comandos de voz "yes" y "no"
 Electronic Frontier Foundation 
 cyber.harvard.edu
 Harvard tinyml = controlador arduino de camara
