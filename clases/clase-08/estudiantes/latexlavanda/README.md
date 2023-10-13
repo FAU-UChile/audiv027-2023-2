@@ -1,4 +1,4 @@
-# titulo
+# Clase 08, 06-10-23
 
 NANO 33 BLE SENSE
 
