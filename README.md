@@ -98,7 +98,7 @@ Unidad 3: Inteligencia artificial en microcontroladores y Arduino
 | [clase-07](clases/clase-07/)             | 2023-09-29 viernes | entrega trabajo grupal de primer proyecto     |
 | [clase-08](clases/clase-08/)             | 2023-10-06 viernes | inteligencia artificial en microcontroladores |
 | [clase-09](clases/clase-09/)             | 2023-10-13 viernes | inteligencia artificial en microcontroladores |
-| [clase-10](clases/clase-10/)             | 2023-10-20 viernes | inteligencia artificial en microcontroladores |
+| [clase-10](clases/clase-10/)             | 2023-10-20 viernes | paro estudiantil |
 | día feriado                              | 2023-10-27 viernes | no hay clase                                  |
 | [clase-11](clases/clase-11/)             | 2023-11-03 viernes | trabajo grupal en segundo proyecto            |
 | [clase-12](clases/clase-12/)             | 2023-11-10 viernes | trabajo grupal en segundo proyecto            |
