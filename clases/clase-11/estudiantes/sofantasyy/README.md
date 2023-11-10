@@ -47,7 +47,7 @@ La información recopilada en Serial Monitor, se copia y luego e pega en los arc
 ![WhatsApp Image 2023-11-10 at 17 11 56](https://github.com/sofantasyy/audiv027-2023-2/assets/142052341/a9a7eaad-dae6-4554-b5d0-127b48c5a154)
 
 ### PASO 3
-Una vez recipilados los archivos CSV con el registro cromático de cada elemento(Fuego, Agua, Tierra y viento), debemos subir estas carpetas al documento de Google Colab: https://colab.research.google.com/github/arduino/ArduinoTensorFlowLiteTutorials/blob/master/FruitToEmoji/FruitToEmoji.ipynb en la carpeta de archivos. IMPORTANTE: NO CARGAR LOS ARCHIVOS EN SAMPLE DATA COMO LA IMAGEN SIGUENTE.
+Una vez recipilados los archivos CSV con el registro cromático de cada elemento(Fuego, Agua, Tierra y viento), debemos subir estas carpetas al documento de Google Colab: https://colab.research.google.com/github/arduino/ArduinoTensorFlowLiteTutorials/blob/master/FruitToEmoji/FruitToEmoji.ipynb en la carpeta de archivos y también eliminar la celda completa de Run Whit Test Data. Ya que esta celda solo permite trabajar con 3 variables. IMPORTANTE: NO CARGAR LOS ARCHIVOS EN SAMPLE DATA COMO LA IMAGEN SIGUENTE.
 
 ![WhatsApp Image 2023-11-10 at 17 32 41](https://github.com/sofantasyy/audiv027-2023-2/assets/142052341/1f0f61a7-ffed-4d4f-ac17-3734d9138751)
 
@@ -55,8 +55,20 @@ Así debe verse:)
 
 ![WhatsApp Image 2023-11-10 at 17 51 47](https://github.com/sofantasyy/audiv027-2023-2/assets/142052341/e43a508b-88a0-45b9-9305-4b7fe1aa12a2)
 
+### PASO 3
+Luego debe hacer correr todo el entorno de ejecución, refrescar las carpetas(1) y posteriormente descargar el Model h(2)
+
+![InkedInkedWhatsApp Image 2023-11-10 at 18 00 31](https://github.com/sofantasyy/audiv027-2023-2/assets/142052341/5194d645-13ac-4e10-ae63-647a4ed012cd)
+
+### PASO 4
+Desde el archivo original de Object_color_classify.ino, se elimina el Model h existente y lo remplazamos por el que obtuvimos desde Google Colab. 
+
+
+
+
 ## Código
 ### Index
+
 
 
 ```
