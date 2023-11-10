@@ -1,4 +1,4 @@
-# Proyecto juego retro con comandos de voz
+# Proyecto Space invader con comandos de voz
 
 ## Introduccion
 
