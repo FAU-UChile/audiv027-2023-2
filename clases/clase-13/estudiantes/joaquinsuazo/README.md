@@ -25,7 +25,7 @@ A continuacion estos son los diferentes videos cuales dieron origen al proyecto 
 
 - https://www.youtube.com/watch?v=l0HoJHc-63Q 
 - https://www.youtube.com/watch?v=biN3v3ef-Y0
-- https://www.youtube.com/watch?v=FZlpuQeCvlk&list=PLBDInqUM5B26FjwMMZqGDxqQr1kX5V9Ul
+- https://www.youtube.com/watch?v=ZQ3M7cltjks&list=PLBDInqUM5B25FzygoJ9Ifg1TZXmIHz4zh
 
 ## Conclusiones
 
