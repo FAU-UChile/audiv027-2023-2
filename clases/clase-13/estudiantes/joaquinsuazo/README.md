@@ -6,10 +6,10 @@ Estoy trabajando con [faerium](https://github.com/faerium) y [msvioletasr](https
 En este proyecto se tiene como objetivo el generar un escenario clasico del juego Space invader mediente p5js en donde se pueda interacturar con el juego mediante el uso de 3 comandos de voz.
 
 ## Materiales
-- Mouse
-- una pantalla
-- computadora o dispositivo movil con capacidad de entrada de audio
-- navegador de google, opera o firefox
+- Mouse.
+- una pantalla.
+- computadora o dispositivo movil con capacidad de entrada de audio.
+- navegador de google, opera o firefox.
 
 ## Software utilizado
   - p5js
@@ -22,7 +22,7 @@ Por hacer
 
 ## Referentes
 
-A continuacion estos son los diferentes videos cuales dieron origen al proyecto involucrado
+A continuacion estos son los diferentes videos cuales dieron origen al proyecto involucrado.
 
 - https://www.youtube.com/watch?v=l0HoJHc-63Q 
 - https://www.youtube.com/watch?v=biN3v3ef-Y0
@@ -30,5 +30,5 @@ A continuacion estos son los diferentes videos cuales dieron origen al proyecto 
 
 ## Conclusiones
 
-Por hacer
+
 
