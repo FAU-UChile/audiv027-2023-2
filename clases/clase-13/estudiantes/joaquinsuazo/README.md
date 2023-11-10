@@ -1,3 +1,4 @@
+Estoy trabajando con [faerium](https://github.com/faerium) y [msvioletasr](https://github.com/msvioletasr)
 # Proyecto Space invader con comandos de voz
 
 ## Introduccion
