@@ -3,7 +3,7 @@ Estoy trabajando con [faerium](https://github.com/faerium) y [msvioletasr](https
 
 ## Introduccion
 
-En este proyecto se tiene como objetivo el generar un escenario clasico de un juego retro mediente p5js en donde se pueda interacturar con el juego mediante el uso de comandos de voz
+En este proyecto se tiene como objetivo el generar un escenario clasico del juego Space invader mediente p5js en donde se pueda interacturar con el juego mediante el uso de 3 comandos de voz.
 
 ## Materiales
 - Mouse
