@@ -14,6 +14,10 @@ En las bellas artes, especialmente en la pintura, los humanos han dominado la ha
 
 https://learn.ml5js.org/#/reference/style-transfer
 
+https://github.com/ml5js/training-styletransfer/blob/master/README.md
+
+https://colab.research.google.com/drive/1TZNdhoUEBoxQqY5EFloZcuyYUs9oNQ-g?usp=sharing
+
 
 base de datos:
 https://www.kaggle.com/datasets/karnikakapoor/art-portraits/
