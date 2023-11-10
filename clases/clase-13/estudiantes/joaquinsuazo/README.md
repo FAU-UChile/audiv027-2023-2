@@ -14,3 +14,9 @@ En este proyecto se tiene como objetivo el generar un escenario clasico de un ju
   - p5js
   - google teachable machine
   - ml5js
+## Referentes
+
+A continuacion estos son los diferentes videos cuales dieron origen al proyecto involucrado
+
+https://www.youtube.com/watch?v=l0HoJHc-63Q 
+https://www.youtube.com/watch?v=biN3v3ef-Y0
