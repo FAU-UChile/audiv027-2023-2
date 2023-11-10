@@ -31,6 +31,8 @@ A continuacion estos son los diferentes videos cuales dieron origen al proyecto 
 - ![Captura de pantalla 2023-11-10 175919](https://github.com/joaquinsuazo/audiv027-2023-2/assets/128074599/cad1952e-8731-4c57-ae25-b516d1e54ca4)
 
 - https://www.youtube.com/watch?v=ZQ3M7cltjks&list=PLBDInqUM5B25FzygoJ9Ifg1TZXmIHz4zh
+- ![Captura de pantalla 2023-11-10 180553](https://github.com/joaquinsuazo/audiv027-2023-2/assets/128074599/5c704b62-451a-4aa1-b547-7ac9b12f89bc)
+
 
 ## Conclusiones
 
