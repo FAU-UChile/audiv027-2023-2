@@ -1,3 +1,4 @@
-# titulo
+fruit to emoji
 
-texto
+- crear base de datos
+- cambiar nombres en el codigo
