@@ -30,5 +30,7 @@ A continuacion estos son los diferentes videos cuales dieron origen al proyecto 
 
 ## Conclusiones
 
+En conclusion podemos ver que mediante el uso de una IA entrenada para recibir ciertos comandos de voz puede provocar un gran cambio en la jugabilidad de juegos retro como space invader, dandonos la oportunidad de dar mas accecibilidad a estos juegos a otro tipo de publico como tambien ganerar la oportunidad de replicar estas funciones dentro de otros juegos de la epoca.
+
 
 
