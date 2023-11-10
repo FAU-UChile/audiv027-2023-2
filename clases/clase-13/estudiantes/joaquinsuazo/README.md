@@ -24,12 +24,9 @@ Por hacer
 
 A continuacion estos son los diferentes videos cuales dieron origen al proyecto involucrado.
 
-![Captura de pantalla 2023-11-10 175948](https://github.com/joaquinsuazo/audiv027-2023-2/assets/128074599/4510091f-0529-41bc-8bef-b157cc8ece82)
+
 -https://www.youtube.com/watch?v=l0HoJHc-63Q
-
-![Captura de pantalla 2023-11-10 175919](https://github.com/joaquinsuazo/audiv027-2023-2/assets/128074599/da6ad736-dcc5-40de-b978-9546ec14f9bb)
 - https://www.youtube.com/watch?v=biN3v3ef-Y0
-
 -  https://www.youtube.com/watch?v=ZQ3M7cltjks&list=PLBDInqUM5B25FzygoJ9Ifg1TZXmIHz4zh
 
 ## Conclusiones
