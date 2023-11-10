@@ -2,7 +2,7 @@
 
 ## Introduccion
 
-En este proyecto se tiene como objetivo el generar un escenario clasico de un juego retro mediente p5js en donde se pueda interacturar con el juego mediante el uso de comando de voz
+En este proyecto se tiene como objetivo el generar un escenario clasico de un juego retro mediente p5js en donde se pueda interacturar con el juego mediante el uso de comandos de voz
 
 ## Materiales
 - Mouse
@@ -17,6 +17,8 @@ En este proyecto se tiene como objetivo el generar un escenario clasico de un ju
 
 ## Instrucciones
 
+Por hacer
+
 ## Referentes
 
 A continuacion estos son los diferentes videos cuales dieron origen al proyecto involucrado
@@ -26,4 +28,6 @@ A continuacion estos son los diferentes videos cuales dieron origen al proyecto 
 - https://www.youtube.com/watch?v=FZlpuQeCvlk&list=PLBDInqUM5B26FjwMMZqGDxqQr1kX5V9Ul
 
 ## Conclusiones
+
+Por hacer
 
