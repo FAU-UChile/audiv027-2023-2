@@ -46,6 +46,7 @@ La información recopilada en Serial Monitor, se copia y luego e pega en los arc
 
 ![WhatsApp Image 2023-11-10 at 17 11 56](https://github.com/sofantasyy/audiv027-2023-2/assets/142052341/a9a7eaad-dae6-4554-b5d0-127b48c5a154)
 
+
 ### PASO 3
 Una vez recipilados los archivos CSV con el registro cromático de cada elemento(Fuego, Agua, Tierra y viento), debemos subir estas carpetas al documento de Google Colab: https://colab.research.google.com/github/arduino/ArduinoTensorFlowLiteTutorials/blob/master/FruitToEmoji/FruitToEmoji.ipynb en la carpeta de archivos y también eliminar la celda completa de Run Whit Test Data. Ya que esta celda solo permite trabajar con 3 variables. IMPORTANTE: NO CARGAR LOS ARCHIVOS EN SAMPLE DATA COMO LA IMAGEN SIGUENTE.
 
@@ -55,20 +56,30 @@ Así debe verse:)
 
 ![WhatsApp Image 2023-11-10 at 17 51 47](https://github.com/sofantasyy/audiv027-2023-2/assets/142052341/e43a508b-88a0-45b9-9305-4b7fe1aa12a2)
 
+
 ### PASO 3
 Luego debe hacer correr todo el entorno de ejecución, refrescar las carpetas(1) y posteriormente descargar el Model h(2)
 
 ![InkedInkedWhatsApp Image 2023-11-10 at 18 00 31](https://github.com/sofantasyy/audiv027-2023-2/assets/142052341/5194d645-13ac-4e10-ae63-647a4ed012cd)
 
+
 ### PASO 4
-Desde el archivo original de Object_color_classify.ino, se elimina el Model h existente y lo remplazamos por el que obtuvimos desde Google Colab. 
+Desde el archivo original de Object_color_classify.ino, se elimina el Model h existente y lo remplazamos por el que obtuvimos desde Google Colab. Ahora es posible clasificar elementos según la base de datos cromática ingresada.
+
+![7bc5a488-afe6-4a85-b01c-802c43e85bc1](https://github.com/sofantasyy/audiv027-2023-2/assets/142052341/71de6014-44ce-4c1f-93b4-3cb4a6b49af4)
 
 
+### PASO 5
+Ahora rescatamos el código desde Micro_Speech de Harvard_TinyMLx. relacionado con el encendido de la luz LED del microcontrolador. Esto con la finalidad de relacionar la respuesta de clasificación(Agua, Aire, Fuego o Tierra) con una respuesta lumínica adicional si el elemento clasificado posee una probabilidad de confianza mayor al 50%. Agua= Luz Azul, Fuego= Luz Roja, Tierra= Luz Verde y Aire= Luz Blanca
+
+
+### PASO 6
 
 
 ## Código
 ´´´
 ´´´
+
 
 ### Index
 
@@ -85,6 +96,7 @@ Computador
 Colores para registrar
 Internet
 
+
  #### Software : 
 Arduino
 
@@ -92,6 +104,7 @@ Arduino
 
 
 ## Conclusiones y aprendizaje
+Al hacer el entrenamiento para la identificación de colores utilizamos colores rgb por lo que cuando identificamos colores e
 - Fue sumamente importante la colaboración entre compañeres del curso de intelgencia artificial. Tanto entre nosotras como grupo y la ayuda y guía recibida desde Aaron, J y el grupo de Amelia.
   
 Aprendizaje: Registro de error en línea de datos de archivo csv de la captura cromática correspondiente a fuego.
