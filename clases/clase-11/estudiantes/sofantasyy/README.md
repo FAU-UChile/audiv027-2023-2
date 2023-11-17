@@ -67,11 +67,12 @@ Desde el archivo original de Object_color_classify.ino, se elimina el Model h ex
 
 
 ## Código
+´´´
+´´´
+
 ### Index
 
 
-
-```
 ### Sketch
 
 
@@ -90,4 +91,16 @@ Arduino
 ## Referentes y recursos adicionales
 
 
-## Conclusiones y aprendizajes 
+## Conclusiones y aprendizaje
+- Fue sumamente importante la colaboración entre compañeres del curso de intelgencia artificial. Tanto entre nosotras como grupo y la ayuda y guía recibida desde Aaron, J y el grupo de Amelia.
+  
+Aprendizaje: Registro de error en línea de datos de archivo csv de la captura cromática correspondiente a fuego.
+Al momento de ejecutar las celdas en colab solo logró resultados en 2 colores ya que el tercero presentaba un error en una línea de código.
+
+![9CA9C69B-D850-4052-A39B-D32E635DE40E](https://github.com/sofantasyy/audiv027-2023-2/assets/142052341/6d85d823-9e42-460f-bc12-8eb665a4e141)
+
+Intentamos ocupar la cámara más grande pensando en tener resultados mas precisos al momento de identificar, pero no fue posible ya que el código que estamos utilizando esta hecho para la cámara integrada en el arduino.
+
+![IMG_8051](https://github.com/sofantasyy/audiv027-2023-2/assets/142052341/2fc41cf0-0345-4aab-9c5c-6d3113c0b363)
+
+
